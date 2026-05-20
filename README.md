@@ -31,43 +31,38 @@ Wat een AI hiermee doet: in plaats van per opdracht uitleggen "schrijf alsjeblie
 Twee lagen, vier docs. Praktijk staat bovenop, fundament eronder.
 
 ```
-┌──────────────────────── PRAKTIJK ────────────────────────┐
-│                                                          │
-│  ┌────────────────────────┐  ┌────────────────────────┐  │
-│  │ SOCIAL-AI-PRINCIPES.md │  │ PROMPT-BEST-PRACTICES  │  │
-│  │                        │  │                        │  │
-│  │ 15 principes,          │  │ Concrete vertaling     │  │
-│  │ 7 clusters             │  │ naar prompt-ontwerp    │  │
-│  │                        │  │                        │  │
-│  │ Fundamenteel ·         │  │ 4 facetten ·           │  │
-│  │ Grondhouding ·         │  │ 4 kernbegrenzingen ·   │  │
-│  │ Werkwijze · Oplettend  │  │ 3 AI-waardeniveaus ·   │  │
-│  │ Data-eigenaarschap ·   │  │ multi-pass review ·    │  │
-│  │ Anti-decontext. ·      │  │ DIRECT/INFERENCE ·     │  │
-│  │ AI-waardeniveaus       │  │ quote-density          │  │
-│  └────────────────────────┘  └────────────────────────┘  │
-│                                                          │
-└──────────────────────────────────────────────────────────┘
-                            ▲
-                            │  stoelt op
-                            ▼
-┌─────────────────────── FUNDAMENT ────────────────────────┐
-│                                                          │
-│  ┌────────────────────────┐  ┌────────────────────────┐  │
-│  │ OwnershipPrinciples.md │  │ BottomUpPrinciples.md  │  │
-│  │                        │  │                        │  │
-│  │ Waar het vandaan komt  │  │ Hoe verandering        │  │
-│  │                        │  │ ontstaat               │  │
-│  │                        │  │                        │  │
-│  │ Psychologische         │  │ 7 kernideeën ·         │  │
-│  │ grammatica ·           │  │ voorbereiding +        │  │
-│  │ taalprincipes ·        │  │ proces ·               │  │
-│  │ scoring-methodiek ·    │  │ stappenplan voor       │  │
-│  │ ontstaan via het       │  │ beginners + voor       │  │
-│  │ Doesburg-werk          │  │ gevorderden            │  │
-│  └────────────────────────┘  └────────────────────────┘  │
-│                                                          │
-└──────────────────────────────────────────────────────────┘
+┌───────────────────────────────────── PRAKTIJK ─────────────────────────────────────┐
+│                                                                                    │
+│  ┌────────────────────────────────────┐  ┌────────────────────────────────────┐  │
+│  │ SOCIAL-AI-PRINCIPES.md             │  │ PROMPT-BEST-PRACTICES.md           │  │
+│  │                                    │  │                                    │  │
+│  │ 15 principes, 7 clusters           │  │ Concrete vertaling naar            │  │
+│  │                                    │  │ prompt-ontwerp                     │  │
+│  │ Fundamenteel · Grondhouding ·      │  │                                    │  │
+│  │ Werkwijze · Oplettend ·            │  │ 4 facetten · 4 kernbegrenzingen    │  │
+│  │ Data-eigenaarschap ·               │  │ 3 AI-waardeniveaus · multi-pass    │  │
+│  │ Anti-decontextualisatie ·          │  │ review · DIRECT/INFERENCE ·        │  │
+│  │ AI-waardeniveaus                   │  │ quote-density                      │  │
+│  └────────────────────────────────────┘  └────────────────────────────────────┘  │
+│                                                                                    │
+└────────────────────────────────────────────────────────────────────────────────────┘
+                                          ▲
+                                          │  stoelt op
+                                          ▼
+┌──────────────────────────────────── FUNDAMENT ─────────────────────────────────────┐
+│                                                                                    │
+│  ┌────────────────────────────────────┐  ┌────────────────────────────────────┐  │
+│  │ OwnershipPrinciples.md             │  │ BottomUpPrinciples.md              │  │
+│  │                                    │  │                                    │  │
+│  │ Waar het vandaan komt              │  │ Hoe verandering ontstaat           │  │
+│  │                                    │  │                                    │  │
+│  │ Psychologische grammatica ·        │  │ 7 kernideeën ·                     │  │
+│  │ taalprincipes ·                    │  │ voorbereiding + proces ·           │  │
+│  │ scoring-methodiek ·                │  │ stappenplan voor beginners ·       │  │
+│  │ ontstaan via het Doesburg-werk     │  │ stappenplan voor gevorderden       │  │
+│  └────────────────────────────────────┘  └────────────────────────────────────┘  │
+│                                                                                    │
+└────────────────────────────────────────────────────────────────────────────────────┘
 ```
 
 Praktijk-laag (Principes + Prompts): wat je dóet wanneer AI in groepswerk meewerkt.
