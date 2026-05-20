@@ -1,0 +1,10 @@
+.DS_Store
+.vscode/
+.idea/
+node_modules/
+*.tmp
+*.log
+
+# Internal working files, niet onderdeel van publieke bundle
+_SPEC.md
+_internal/
