@@ -6,7 +6,12 @@
 > Onderdeel van [Thoughtful Social AI](../README.md). Licentie: CC-BY-SA 4.0.
 > [View raw markdown](https://raw.githubusercontent.com/USER/thoughtful-social-ai/main/nl/OwnershipPrinciples.md) voor copy-paste naar je AI.
 
-Geformaliseerd in het Social GitHub MVP-werk in Doesburg, najaar 2025.
+> **Wat dit document noemt.** Tijdens het lezen kom je een aantal specifieke mensen en projecten tegen die in de praktijk van de auteur centraal staan. De principes en technieken zijn algemeen toepasbaar, deze concrete referenties dienen als context, niet als vereiste.
+>
+> - **Floor de Ruiter**: facilitator en denker over bottom-up verandering ([bottom-upchange.nl](https://bottom-upchange.nl))
+> - **het Doesburg-traject**: een bottom-up gemeenschapstraject rondom een zorgzame gemeenschap; deze eigenaarschap-principes zijn daar formeel gemaakt (najaar 2025)
+
+Geformaliseerd in het Doesburg-traject (een bottom-up gemeenschapstraject rondom een zorgzame gemeenschap), najaar 2025.
 
 ## Kernfilosofie
 
@@ -28,18 +33,18 @@ Dit is ook het mechanisme onder bottom-up werk: self-efficacy is lokaal of niet,
 
 ## Origin Story: AI-Assisted Heuristic Development
 
-**How These Principles Were Formalized** (Francesco Interview, October 2025):
+**How These Principles Were Formalized** (uit een gesprek over de oorsprong van het werk in het Doesburg-traject, October 2025):
 
-> "I was working on this system five, six weeks ago on trying to get sort of this little agent factory going on analyzing meetings, meeting transcripts to look at: Are the feelings of ownership rising? [...] And I don't know, Claude, or I think it was Claude, it came back to me with like this whole markdown file of ownership heuristics. And I looked at it and I'm like, this makes a lot of sense. And it looked at language like... High ownership is like, yes, I will do that. Or, yeah, I'll take a look at this. I'll do this now. And then there's all these in-between stuff." (Joost)
+> "I was working on this system five, six weeks ago on trying to get sort of this little agent factory going on analyzing meetings, meeting transcripts to look at: Are the feelings of ownership rising? [...] And I don't know, Claude, or I think it was Claude, it came back to me with like this whole markdown file of ownership heuristics. And I looked at it and I'm like, this makes a lot of sense. And it looked at language like... High ownership is like, yes, I will do that. Or, yeah, I'll take a look at this. I'll do this now. And then there's all these in-between stuff."
 
 **The Process**:
 1. **Tacit Expertise**: Years of facilitation work developed implicit ability to recognize ownership signals
 2. **AI Formalization Request**: Asked Claude to analyze transcripts for ownership patterns
 3. **AI Generation**: Claude produced structured markdown of ownership heuristics based on language patterns
-4. **Human Validation**: Joost verified heuristics against lived facilitation experience ("this makes a lot of sense")
+4. **Human Validation**: The author verified heuristics against lived facilitation experience ("this makes a lot of sense")
 5. **Integration**: Formalized heuristics became explicit scoring methodology
 
-**Key Insight**: Sometimes AI can help articulate tacit expertise that humans struggle to formalize explicitly. The AI didn't create new knowledge, it structured and made explicit what Joost already knew implicitly from practice.
+**Key Insight**: Sometimes AI can help articulate tacit expertise that humans struggle to formalize explicitly. The AI didn't create new knowledge, it structured and made explicit what the author already knew implicitly from practice.
 
 **Validation Methodology**:
 - **Test against real transcripts**: Do the heuristics match actual ownership you observe?
@@ -64,7 +69,7 @@ Dit is ook het mechanisme onder bottom-up werk: self-efficacy is lokaal of niet,
 - **Consent-based naming**:
   - `consent=true` → gebruik echte namen voor ownership
   - `consent=false` → gebruik pseudoniemen, maar behoud hun taalgebruik
-- **Culturele context**: Respect voor lokale Doesburg terminologie
+- **Culturele context**: Respect voor lokale terminologie
 - **Professionele context**: Behoud vakjargon als dat hun eigenaarschap versterkt
 
 ## Eigenaarschap Herkenning
@@ -239,7 +244,7 @@ ipv lagere score.
 
 ## Changelog
 
-- **2025-08-26**: eerste versie geformaliseerd vanuit Doesburg Social GitHub MVP-werk.
+- **2025-08-26**: eerste versie geformaliseerd vanuit het Doesburg-traject.
 - **2026-05-10**: design-principe "Eigenaarschap is lokaal of niet" toegevoegd, met koppeling naar bottom-up werk (Bandura, Marquet, Floor de Ruiter).
 - **2026-05-20**: publiek-deelbare versie in Thoughtful Social AI bundle.
 

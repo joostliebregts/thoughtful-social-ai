@@ -6,8 +6,13 @@
 > Onderdeel van [Thoughtful Social AI](../README.md). Licentie: CC-BY-SA 4.0.
 > [View raw markdown](https://raw.githubusercontent.com/USER/thoughtful-social-ai/main/nl/SOCIAL-AI-PRINCIPES.md) voor copy-paste naar je AI.
 
+> **Wat dit document noemt.** Tijdens het lezen kom je een aantal specifieke mensen en projecten tegen die in de praktijk van de auteur centraal staan. De principes en technieken zijn algemeen toepasbaar, deze concrete referenties dienen als context, niet als vereiste.
+>
+> - **Floor de Ruiter**: facilitator en denker over bottom-up verandering ([bottom-upchange.nl](https://bottom-upchange.nl))
+> - **het Doesburg-traject**: een bottom-up gemeenschapstraject rondom een zorgzame gemeenschap waar veel van deze principes in de praktijk zijn ontwikkeld
+> - **de Veldgids**: Social AI Veldgids op [jmfl.nl/social-ai](https://jmfl.nl/social-ai)
+
 > *"Al die vragen beginnen bij de mens. Niet bij de tool, niet bij het systeem, niet bij de prompt."*
-> (Veldgids, jmfl.nl/social-ai)
 
 **Canonical bundle voor AI-ondersteund werken met groepen.** 15 principes in 7 clusters, plus mechanisme onder de principes, onderliggende disciplines, en drie prompt-design vertalingen.
 
@@ -19,7 +24,7 @@ Stijl: detail behouden, fluff weg. Voicing waar mogelijk bron-getrouw.
 
 Voordat we de principes oplijsten: deze bundle gaat niet over AI. Hij gaat over mensen die samen iets willen (een buurt, een team, een groep zorgverleners, een wijk) en hoe AI dat werk kan ondersteunen zonder het over te nemen.
 
-*"Welke vraag stel je de groep? Voelen mensen zich veilig genoeg om eerlijk te zijn? Vraag je om ervaring of om mening? Als je AI inzet: wat geef je het? De woorden van de mensen zelf, niet jouw samenvatting."* (Veldgids, jmfl.nl/social-ai)
+*"Welke vraag stel je de groep? Voelen mensen zich veilig genoeg om eerlijk te zijn? Vraag je om ervaring of om mening? Als je AI inzet: wat geef je het? De woorden van de mensen zelf, niet jouw samenvatting."*
 
 Al die vragen beginnen bij de mens. Niet bij de tool, niet bij het systeem, niet bij de prompt. Deze principes proberen die volgorde overeind te houden.
 
@@ -70,7 +75,7 @@ Vertrouwen kun je niet maken, alleen gebruiken en niet schaden.
 
 AI mag ordenen, verbinden, zichtbaar maken, niet namens mensen concluderen. Conclusies in synthesis-pagina's zijn altijd traceerbaar naar wie ze trok. Als AI een patroon ziet dat participanten niet hebben benoemd: markeer als hypothese (verbreding-rol), niet als feit. Bij "wat willen de deelnemers?" vragen: citeer ze. Nooit "de groep wil X" zonder directe bron. AI analyseert, mens beslist. AI herkent patronen, mens interpreteert. AI biedt opties, mens kiest richting. AI structureert, mens behoudt relaties.
 
-**Sub-nuance, AI maakt participatie schaalbaar (Veldgids):** Naast wat AI niet mag (overnemen), zit hier ook wat AI wel mogelijk maakt: in groepen van 50, 100, 200 mensen het signaal van elke stem zichtbaar maken. Dat kan een mens niet, niet in tempo, niet in volledigheid. Schaalbaarheid is een eigen waarde, zolang de andere principes overeind blijven (geen verlies van herkenning, geen privacy-schending, geen consultant-stem).
+**Sub-nuance, AI maakt participatie schaalbaar:** Naast wat AI niet mag (overnemen), zit hier ook wat AI wel mogelijk maakt: in groepen van 50, 100, 200 mensen het signaal van elke stem zichtbaar maken. Dat kan een mens niet, niet in tempo, niet in volledigheid. Schaalbaarheid is een eigen waarde, zolang de andere principes overeind blijven (geen verlies van herkenning, geen privacy-schending, geen consultant-stem).
 
 **Waar het op spanning staat:** Bij hoog tijdsdruk neigt AI (en gebruikers van AI) naar "vertel me wat ik moet doen". Weerstaan. Antwoorden die niet uit het systeem komen zijn geen antwoorden voor dit systeem.
 
@@ -84,9 +89,9 @@ Wanneer iemand zegt *"je praat tegen een muur"*, bevat die zin hun ervaring, hun
 
 *"Eigenaarschap komt van binnenuit. We kennen het niet toe, we herkennen het."* (zie [Eigenaarschap](./OwnershipPrinciples.md))
 
-**Sub-nuance, Jouw woorden, jouw plan (Veldgids):** Eigenaarschap-door-taal geldt niet alleen voor losse uitspraken maar ook voor besluiten en plannen. *"Kan de AI niet gewoon het implementatieplan maken?"*: dat kan het prima, maar dan is het van AI, niet van de groep.
+**Sub-nuance, Jouw woorden, jouw plan:** Eigenaarschap-door-taal geldt niet alleen voor losse uitspraken maar ook voor besluiten en plannen. *"Kan de AI niet gewoon het implementatieplan maken?"*: dat kan het prima, maar dan is het van AI, niet van de groep.
 
-Joost's antwoord in een GGZ-sessie: *"Dat kan het prima, maar jullie zijn de ziel van dit alles. Het feit dat jullie erover praten, zorgt ervoor dat jullie het waarschijnlijk zullen steunen."* (Veldgids, jmfl.nl/social-ai)
+Een antwoord in een zorginstellings-sessie: *"Dat kan het prima, maar jullie zijn de ziel van dit alles. Het feit dat jullie erover praten, zorgt ervoor dat jullie het waarschijnlijk zullen steunen."*
 
 Het uitspreken IS de interventie. Articulatie creëert eigenaarschap, niet rapportage erover. Dialoog bouwt gedeeld begrip. Co-creatie genereert authentiek eigenaarschap. Commitment volgt uit actieve participatie. AI mag structureren en opties bieden, nooit beslissen.
 
@@ -119,7 +124,7 @@ Twee modes mogelijk: patroon-gretigheid (signaal zien, matchen tegen wat je kent
 
 > Niet wegpoetsen. Structureer complexiteit, neutraliseer het ongemak niet.
 
-Frustratie mag er zijn zoals ze is uitgesproken. *"Formuleer uitdagingen constructief"* doodt eigenaarschap. *"Frustraties mogen er zijn zoals ze zijn uitgesproken"* houdt het levend. Voorbeeld: toen de financiering in Doesburg wegviel, ontstond het hoogste niveau van eigenaarschap in de hele dataset. De community besefte *"we moeten zelf de regie pakken"*. Als AI daar was ingezet om het verlies te *"herkaderen tot nieuwe kansen"*, was deze vitale rebellie in de kiem gesmoord. Gebruik AI om complexiteit van frustratie te structureren. Gebruik AI nooit om ongemak weg te poetsen.
+Frustratie mag er zijn zoals ze is uitgesproken. *"Formuleer uitdagingen constructief"* doodt eigenaarschap. *"Frustraties mogen er zijn zoals ze zijn uitgesproken"* houdt het levend. Voorbeeld: toen in het Doesburg-traject de financiering wegviel, ontstond het hoogste niveau van eigenaarschap in de hele dataset. De community besefte *"we moeten zelf de regie pakken"*. Als AI daar was ingezet om het verlies te *"herkaderen tot nieuwe kansen"*, was deze vitale rebellie in de kiem gesmoord. Gebruik AI om complexiteit van frustratie te structureren. Gebruik AI nooit om ongemak weg te poetsen.
 
 **Bredere lens:** *"Energie (vaak weerstand) is de motor: frustratie, boosheid, of weerstand tegen de huidige situatie is niet iets wat onderdrukt moet worden, maar juist de brandstof die het veranderingsproces op gang brengt en gaande houdt."* (zie [Bottom-up](./BottomUpPrinciples.md)). Frustratie is één gezicht van energie/weerstand. Boosheid en kritisch ongemak horen er ook bij.
 
@@ -151,9 +156,9 @@ Functioneel alleen als Fundamenteel + Grondhouding staan. Hoe je het werk doet.
 
 Elke wiki-sectie, analyse-prompt, facilitator-voorbereiding begint bij: wat is de menselijke vraag hier? Wat willen mensen echt weten, voelen, doen? Structuur vooraan geplaatst (template, ritueel, formaat) wordt snel doel in zichzelf. De vraag *"hoe zorgen we dat deze bijeenkomst voelt als een plek om eerlijk te spreken?"* is méér waard dan *"welke sjabloon gebruiken we voor de agenda?"*. Ritueel komt nadat intentie helder is, niet andersom. AI kan rituelen efficiënter maken; mens moet intentie bewaken.
 
-**Sub-nuance, Prompt de mensen eerst (Veldgids):** Voordat je een AI-prompt schrijft, ontwerp de menselijke ervaring die goede input genereert.
+**Sub-nuance, Prompt de mensen eerst:** Voordat je een AI-prompt schrijft, ontwerp de menselijke ervaring die goede input genereert.
 
-*"Al die vragen beginnen bij de mens. Niet bij de tool, niet bij het systeem, niet bij de prompt."* (Veldgids, jmfl.nl/social-ai)
+*"Al die vragen beginnen bij de mens. Niet bij de tool, niet bij het systeem, niet bij de prompt."*
 
 Welke vraag stel je de groep? Voelen mensen zich veilig genoeg om eerlijk te zijn? Vraag je om ervaring of mening? *"Hoe kunnen we..."* suggereert dat je al weet dat iets kan. *"Hoe zouden we..."* opent voor mogelijkheden. De facilitatie-vraag komt voor de prompt-vraag. *"Deconstructed burger"* methode: begin bij het doel, werk terug naar puzzelstukjes, ontwerp dan vragen die elk puzzelstukje uit mensen halen.
 
@@ -252,7 +257,7 @@ Hoe patronen reizen zonder hol te worden.
 
 > Portabiliteit door context-explicitering, niet door abstractie.
 
-Aanpak die in deze wijk werkte werkt elders alleen als ingrediënten meekomen: cultuur, geschiedenis, specifieke mensen, instituties, tijdsmoment, eerdere ervaringen. Verleiding is om patronen te abstraheren (*"vertrouwen opbouwen"*, *"luisteren als interventie"*). Dat lijkt portabel, maar is hol: wie het in andere context probeert toe te passen mist de hefbomen die het hier deed werken. Patronen worden **dichter** gedocumenteerd, niet dunner. Lezer in andere context ziet welke ingrediënten ontbreken en kan eigen variant ontwerpen, niet kopiëren. Kern van een open patroon-ecosysteem voor bottom-up werk: niet één blauwdruk, maar patroon-ecosysteem waar contexten zichtbaar blijven. *"Eten als boodschap"* werkt in Doesburg met Noaberschap-cultuur en kerkelijke wortels. Hetzelfde patroon abstraheren naar *"voedsel verbindt"* maakt hem onbruikbaar in beide richtingen: te dun om hier te werken, te leeg om elders te leren.
+Aanpak die in deze wijk werkte werkt elders alleen als ingrediënten meekomen: cultuur, geschiedenis, specifieke mensen, instituties, tijdsmoment, eerdere ervaringen. Verleiding is om patronen te abstraheren (*"vertrouwen opbouwen"*, *"luisteren als interventie"*). Dat lijkt portabel, maar is hol: wie het in andere context probeert toe te passen mist de hefbomen die het hier deed werken. Patronen worden **dichter** gedocumenteerd, niet dunner. Lezer in andere context ziet welke ingrediënten ontbreken en kan eigen variant ontwerpen, niet kopiëren. Kern van een open patroon-ecosysteem voor bottom-up werk: niet één blauwdruk, maar patroon-ecosysteem waar contexten zichtbaar blijven. *"Eten als boodschap"* werkt in een specifieke wijk met een eigen burenhulp-cultuur en kerkelijke wortels. Hetzelfde patroon abstraheren naar *"voedsel verbindt"* maakt hem onbruikbaar in beide richtingen: te dun om hier te werken, te leeg om elders te leren.
 
 **Waar het op spanning staat:** Context-detail versus privacy: hoe specifieker ingrediënten, hoe makkelijker te herleiden naar individuen. Anonimisering die ingrediënten weghaalt is geen anonimisering: het is verarming. Beter: rol-naam (*"de informele leider"*) + voldoende ingrediënten dat het patroon herkenbaar blijft. Generalisatie als gemak: het is sneller om *"vertrouwen opbouwen"* te schrijven dan vijf ingrediënten te benoemen. Discipline: *"als iemand uit een andere wijk dit leest, weet die wat er hier was?"*
 
@@ -297,7 +302,7 @@ Self-efficacy ontstaat **lokaal**: mensen voelen *"ik kan dit"* alleen door iets
 
 ### Articulatie creëert eigenaarschap
 
-Uitspreken IS de interventie, niet rapportage erover. Joost's eigen formulering in een GGZ-sessie waar deelnemers vroegen of AI niet gewoon het plan kon maken: *"Dat kan het prima, maar jullie zijn de ziel van dit alles. Het feit dat jullie erover praten, zorgt ervoor dat jullie het waarschijnlijk zullen steunen."* (Veldgids, jmfl.nl/social-ai)
+Uitspreken IS de interventie, niet rapportage erover. Een formulering uit een zorginstellings-sessie waar deelnemers vroegen of AI niet gewoon het plan kon maken: *"Dat kan het prima, maar jullie zijn de ziel van dit alles. Het feit dat jullie erover praten, zorgt ervoor dat jullie het waarschijnlijk zullen steunen."*
 
 Mechanisme:
 - **Articulatie** → creëert interne helderheid
@@ -309,7 +314,7 @@ Daarom werkt AI als spiegel, niet omdat de spiegel beter is dan de mens, maar om
 
 ### Uitnodiging is geen stijl, het is de enige vorm die niet forceert
 
-Eigenaarschap dat top-down wordt opgelegd is per definitie geen eigenaarschap meer. Floor's recept (*ideale toestand → obstakels → wat zou jij willen doen?*) is de methodische vertaling: de vraag staat altijd bij de deelnemer, het antwoord ook. AI of facilitator die dit overneemt vernietigt waar 'ie voor is. Raakt principes 4, 8 (Intentie voor ritueel) en 9 (Herkenning).
+Eigenaarschap dat top-down wordt opgelegd is per definitie geen eigenaarschap meer. Het recept van Floor de Ruiter (*ideale toestand → obstakels → wat zou jij willen doen?*) is de methodische vertaling: de vraag staat altijd bij de deelnemer, het antwoord ook. AI of facilitator die dit overneemt vernietigt waar 'ie voor is. Raakt principes 4, 8 (Intentie voor ritueel) en 9 (Herkenning).
 
 ### Taal als vorm, vier talen, één mechanisme
 
@@ -352,7 +357,7 @@ Geen eenmalige synthese. Iteratie met participanten. Voor naam-toekenningen, cla
 
 We hebben dit niet absoluut bewezen, wel consistent over drie lenses en twee soorten bronnen geobserveerd. Voorzichtig mee omgaan: behandel als sterke werkhypothese, niet als wet.
 
-**De bredere claim, Joost's veranderkundige inbreng.** *"Het is veel handiger om mensen te veranderen door te vragen of ze meer kunnen doen van wat ze al doen, te bevestigen wat er goed gaat, dan in die frictie te gaan zitten van: hé, dit moet je beter doen."* Versterken wat al werkt is een sterker veranderings-mechanisme dan corrigeren wat niet werkt. Bij patroon-onderzoek dat in menselijke praktijk landt: belicht beide kanten als default, en voor hoogwaardig wiki-fundament-werk komt daar een extra positive-only-pass overheen. Anders raakt het positieve verwaterd onder het negatieve.
+**De bredere claim, veranderkundige inbreng.** *"Het is veel handiger om mensen te veranderen door te vragen of ze meer kunnen doen van wat ze al doen, te bevestigen wat er goed gaat, dan in die frictie te gaan zitten van: hé, dit moet je beter doen."* Versterken wat al werkt is een sterker veranderings-mechanisme dan corrigeren wat niet werkt. Bij patroon-onderzoek dat in menselijke praktijk landt: belicht beide kanten als default, en voor hoogwaardig wiki-fundament-werk komt daar een extra positive-only-pass overheen. Anders raakt het positieve verwaterd onder het negatieve.
 
 **Geobserveerd over 3 lenses (2026-05-20):**
 - L1 (taal-mechanismen) + L2 (groeps-dynamiek) op breakouts. Blinde vlek consistent.
@@ -414,7 +419,7 @@ Voor de volledige uitwerking: zie [Prompts](./PROMPT-BEST-PRACTICES.md).
 
 ## Changelog
 
-- **2026-05-12**: v2 canonical aangemaakt. Synthese uit 4 bronnen + 11 Joost-goedgekeurde aanpassingen + 4 cross-skill-check verbeteringen (Soul Principle in mechanisme + §4b quote, bridge naar bottom-up in opener, taal-as expliciet in mechanisme, Veldgids-kernzin "Niet bij de tool" verbatim). Naam definitief "Social AI Principes". 3 AI-waardeniveaus naar 4e cluster. Operationele disciplines expliciet out-of-scope gemarkeerd. Principe 1 voicing "onzichtbare netwerken" (bron-letterlijk). Principe 14 spannings-uitbreiding (4 cases). Principe 5 bron-claim correctie.
+- **2026-05-12**: v2 canonical aangemaakt. Synthese uit 4 bronnen + 11 auteur-goedgekeurde aanpassingen + 4 cross-skill-check verbeteringen (Soul Principle in mechanisme + §4b quote, bridge naar bottom-up in opener, taal-as expliciet in mechanisme, kernzin "Niet bij de tool" verbatim). Naam definitief "Social AI Principes". 3 AI-waardeniveaus naar 4e cluster. Operationele disciplines expliciet out-of-scope gemarkeerd. Principe 1 voicing "onzichtbare netwerken" (bron-letterlijk). Principe 14 spannings-uitbreiding (4 cases). Principe 5 bron-claim correctie.
 - **2026-05-12 (avond)**: Principe 2 (Vertrouwen) uitgebreid met expliciete twee-lagen-structuur: Laag 1 distributie (bestaand) + Laag 2 zorgvuldigheid AI met gedeeld materiaal (nieuw). Pull-quote uitgebreid ("én de rand waarbinnen AI mag werken"). Spannings-bullet voor laag-2 toegevoegd (efficiëntie-druk vs context-zorgvuldigheid). Voorheen had de canonical alleen distributie + lichaam-veiligheid-mechanisme; nu expliciet hoe AI moet omgaan met groeps- versus individu-niveau materiaal.
 - **2026-05-20**: Multi-prompt validation method + naming-conventie complementary/competing/multiple readings toegevoegd onder Multi-pass review-discipline.
 - **2026-05-20 (later)**: Pending observation "Positive-first dimension bij multi-prompt analyse" toegevoegd. Status: te valideren via tweede-lens-test.

@@ -1,4 +1,4 @@
-# Prompts bouwen voor de Social AI Veldgids
+# Prompts bouwen voor AI-ondersteund groepswerk
 
 > **Levend document**, continu in ontwikkeling.
 > Eerste versie najaar 2025. Publiek gepubliceerd 2026-05-20. Laatste update 2026-05-19.
@@ -6,9 +6,16 @@
 > Onderdeel van [Thoughtful Social AI](../README.md). Licentie: CC-BY-SA 4.0.
 > [View raw markdown](https://raw.githubusercontent.com/USER/thoughtful-social-ai/main/nl/PROMPT-BEST-PRACTICES.md) voor copy-paste naar je AI.
 
+> **Wat dit document noemt.** Tijdens het lezen kom je een aantal specifieke tools, projecten en mensen tegen die in de praktijk van de auteur centraal staan. De principes en technieken zijn algemeen toepasbaar, deze concrete referenties dienen als context, niet als vereiste.
+>
+> - **Dembrane**: een transcript- en dialoog-platform voor groepswerk waar veel van deze prompts in zijn ontwikkeld
+> - **Maarten Essenburg**: facilitator-collega (een van de praktijkvoorbeelden in deze doc)
+> - **het Doesburg-traject**: een bottom-up gemeenschapstraject rondom een zorgzame gemeenschap (referentiebron voor frustratie-als-brandstof en eigenaarschap-voorbeelden)
+> - **de Veldgids**: Social AI Veldgids op [jmfl.nl/social-ai](https://jmfl.nl/social-ai) (de praktijk-context waar deze prompts in landen)
+
 > **Wat mensen zeggen is al genoeg. Een goede prompt helpt AI om dat zichtbaar te maken, zonder er iets aan toe te voegen.**
 
-Naslagwerk voor iedereen die prompts ontwerpt voor de Social AI Veldgids of eigen sessies die dezelfde filosofie volgen. Geen generiek "prompt engineering 101", Veldgids-filosofie vertaald naar concrete ontwerpregels. Hieronder de zeven baseline-richtlijnen voor publieke AI-output staan altijd-actief; verderop verwijzen we naar "richtlijn #N" om dezelfde regel snel terug te roepen.
+Naslagwerk voor iedereen die prompts ontwerpt voor eigen sessies die deze filosofie volgen. Geen generiek "prompt engineering 101", filosofie vertaald naar concrete ontwerpregels. Hieronder de zeven baseline-richtlijnen voor publieke AI-output staan altijd-actief; verderop verwijzen we naar "richtlijn #N" om dezelfde regel snel terug te roepen.
 
 ---
 
@@ -44,7 +51,7 @@ Regels worden pas zinvol als je voelt waarom ze bestaan. Drie momenten uit de pr
 
 ### Het fietshelm-moment
 
-Maarten faciliteerde online over smartphone-gebruik bij kinderen. Moe, laat online, tegelijk gastheer en technicus. Na afloop vroeg hij AI het gesprek te analyseren. AI haalde een quote boven die hij compleet had gemist:
+Facilitator Maarten Essenburg faciliteerde online over smartphone-gebruik bij kinderen. Moe, laat online, tegelijk gastheer en technicus. Na afloop vroeg hij AI het gesprek te analyseren. AI haalde een quote boven die hij compleet had gemist:
 
 > "Je kind gaat voor het eerst met de fiets naar school, helm op. Komt thuis en zegt: 'De hele klas heeft geen helm. Doe ik ook niet meer, anders hoor ik er niet bij.'"
 
@@ -54,7 +61,7 @@ Precies de kern waar de hele groep mee worstelde. AI gaf zijn eigen woorden teru
 
 ### "Mouths falling open"
 
-Jeroen faciliteerde sessie over wijktransformatie. Na 45 min intense dialoog drukte hij op echo-knop. AI genereerde binnen 10 sec één vraag die hele gesprek samenvatte. Joost: "From my vantage point, I saw what I can only describe as mouths falling open."
+Een facilitator faciliteerde sessie over wijktransformatie. Na 45 min intense dialoog drukte hij op echo-knop. AI genereerde binnen 10 sec één vraag die hele gesprek samenvatte. De auteur: "From my vantage point, I saw what I can only describe as mouths falling open."
 
 Niet een briljante analyse. Eén vraag, op het juiste moment.
 
@@ -62,7 +69,7 @@ Niet een briljante analyse. Eén vraag, op het juiste moment.
 
 ### "Literally what we said"
 
-Tijdens een GGZ-transformatiesessie verwerkte AI transcript tot concept-deelplan. Reactie deelnemers: "Whoa, wait, this is literally what we said. And now it's in a concept draft."
+Tijdens een mental-health transformatiesessie verwerkte AI transcript tot concept-deelplan. Reactie deelnemers: "Whoa, wait, this is literally what we said. And now it's in a concept draft."
 
 Transitie van verbazing naar vertrouwen naar eigenaarschap. Herkenning bouwde vertrouwen, vertrouwen maakte ruimte voor eigenaarschap.
 
@@ -102,7 +109,7 @@ Elke prompt dient minstens één facet. Facet bepaalt wat de prompt mag doen en 
 
 ## Prompt de mensen eerst
 
-Fundamenteel principe dat eigen sectie verdient. Meeste prompt-ontwerpers beginnen bij AI: "wat moet AI doen?" Veldgids draait het om: "wat moet de mens eerst ervaren?"
+Fundamenteel principe dat eigen sectie verdient. Meeste prompt-ontwerpers beginnen bij AI: "wat moet AI doen?" Deze filosofie draait het om: "wat moet de mens eerst ervaren?"
 
 ### De drie lagen
 
@@ -155,7 +162,7 @@ Externe stakeholders (subsidie-gevers, leadership) willen vaak "hoeveelheid outp
 
 ## De gouden regel
 
-> **Prompts in de Veldgids moeten bijna letterlijke kopieën zijn van prompts die daadwerkelijk gebruikt zijn.** Bron: `INSIGHTS.md` §1
+> **Prompts in deze bundle moeten bijna letterlijke kopieën zijn van prompts die daadwerkelijk gebruikt zijn.**
 
 ### Wat niet mag
 
@@ -176,9 +183,7 @@ Externe stakeholders (subsidie-gevers, leadership) willen vaak "hoeveelheid outp
 - [ ] Staat dit letterlijk (of bijna letterlijk) in een bronbestand?
 - [ ] Kan ik verwijzen naar waar dit vandaan komt?
 - [ ] Is het voorbeeld gebaseerd op een echt gedocumenteerd verhaal?
-- [ ] Zou Joost dit herkennen als iets dat hij daadwerkelijk heeft gedaan?
-
-Bronnen met echte prompts: `sources/prompts/`, `sources/examples/Dembrane/prompt_patterns.md`, `sources/conversationswithAi/`, `sources/examples/rianne/sessie_1/`
+- [ ] Zou de auteur dit herkennen als iets dat hij daadwerkelijk heeft gedaan?
 
 ---
 
@@ -215,9 +220,9 @@ Vijf vocabulaires in de praktijk wijzen naar dezelfde onderliggende keuze:
 
 ### Toepassings-voorbeelden
 
-- **Live echo (10 sec) tijdens GGZ-sessie:** Snel + Fast + Spiegel. Echo-prompt is 4 regels, bedachtzaamheid in vraagontwerp.
+- **Live echo (10 sec) tijdens een mental-health sessie:** Snel + Fast + Spiegel. Echo-prompt is 4 regels, bedachtzaamheid in vraagontwerp.
 - **Post-sessie deelnemer-document (per workstream):** Doordacht + Advanced + Spiegel. Hoge texture-eis, subagent route via Opus, 24-48 ISC.
-- **Cross-sessie eigenaarschap-evolutie rapport (Doesburg, M1-M12):** Diep + Deep + Synthese. Vergelijk transcripten over tijd, volledige domain decomposition, 40+ ISC.
+- **Cross-sessie eigenaarschap-evolutie rapport (Doesburg-traject, M1-M12):** Diep + Deep + Synthese. Vergelijk transcripten over tijd, volledige domain decomposition, 40+ ISC.
 - **Multi-sessie blinde-vlek-analyse:** Diep + Comprehensive + Serendipity. "Wat is nooit gezegd in 12 meetings? Welke afwezigheden zijn betekenisvol?"
 
 ### Detail-uitwerking per as
@@ -230,7 +235,7 @@ Vijf vocabulaires in de praktijk wijzen naar dezelfde onderliggende keuze:
 
 ## De drie niveaus van AI-waarde
 
-Elke prompt opereert op één van drie niveaus. Kies bewust. Bron: `sources/examples/Dembrane/MasterPromptGenerator.md`
+Elke prompt opereert op één van drie niveaus. Kies bewust.
 
 | Niveau | AI doet | Gebruik voor | Prompt-voorbeeld |
 |--------|---------|-------------|------------------|
@@ -302,7 +307,7 @@ Default: OFF. Expliciete ON-conditie vereist. Alle drie waar:
 2. Naming the frame voegt iets toe dat zonder framework niet zichtbaar is
 3. Doelgroep van de output kan met het framework werken (bv. coaches die op SD getraind zijn (interne mirror); niet ruwe groep)
 
-Anti-patroon: SD-sectie inplakken omdat het "completer" oogt. Template-denken, geen bedachtzaamheid. Bron: 4 van 4 IFAD/OTD-workstreams sessie 1, Spiral Dynamics-sectie was filler zonder uitzondering. Verifeerd in iteratie v2 naar v5.
+Anti-patroon: SD-sectie inplakken omdat het "completer" oogt. Template-denken, geen bedachtzaamheid. Empirisch: 4 van 4 workstreams in sessie 1 bij een internationale organisatie, Spiral Dynamics-sectie was filler zonder uitzondering. Verifeerd in iteratie v2 naar v5.
 
 ### Eigenaarschap-evolutie in prompts
 
@@ -317,13 +322,13 @@ ALS eigenaarschapsscores uit eerdere sessies beschikbaar zijn:
 - Benoem ook systeemfactoren die eigenaarschap beïnvloeden
 ```
 
-Bron: zie [Eigenaarschap](./OwnershipPrinciples.md) sectie "Evolutie Over Tijd"
+Zie [Eigenaarschap](./OwnershipPrinciples.md) sectie "Evolutie Over Tijd".
 
 ---
 
 ## De vier kernbegrenzingen
 
-Wanneer je prompt werkt met transcripten of gespreksverslagen, zijn deze vier begrenzingen je fundament. Strikheid hangt af van prompt-type: spiegel-prompt op letterlijke quotes vereist allemaal; brainstorm-prompt op vrije input misschien niet. Bron: `docs/guides/ethiek-filosofie.md`, `INSIGHTS.md`
+Wanneer je prompt werkt met transcripten of gespreksverslagen, zijn deze vier begrenzingen je fundament. Strikheid hangt af van prompt-type: spiegel-prompt op letterlijke quotes vereist allemaal; brainstorm-prompt op vrije input misschien niet.
 
 ```
 1. Baseer output strikt op transcript(en), geen verzinsels
@@ -344,7 +349,7 @@ Wanneer je prompt werkt met transcripten of gespreksverslagen, zijn deze vier be
 
 ### Waarom elke begrenzing ertoe doet
 
-**1. Strikt op transcript:** Zonder deze instructie gaat AI "aanvullen" met eigen kennis. Resultaat klinkt overtuigend maar is niet van de deelnemers. Francesco waarschuwt: "That list reads like, oh, this is very convincing, and I believe it's possible. I believe people have said this. But are they the only outliers? How has it been weighted?"
+**1. Strikt op transcript:** Zonder deze instructie gaat AI "aanvullen" met eigen kennis. Resultaat klinkt overtuigend maar is niet van de deelnemers. Een mede-onderzoeker waarschuwt: "That list reads like, oh, this is very convincing, and I believe it's possible. I believe people have said this. But are they the only outliers? How has it been weighted?"
 
 **2. Bij twijfel, benoem het:** AI dat zeker klinkt terwijl het gist, ondermijnt vertrouwen zodra iemand het controleert. "Mogelijk onderbelicht" geeft ruimte voor correctie zonder gezichtsverlies.
 
@@ -372,7 +377,7 @@ Bij output die quotes uit transcripten gebruikt: stel quote-cap per output-secti
 
 ### Model-specifieke calibration
 
-Cap-getallen verschillen per model. Gemini 2.5 Pro: target 10-12 quotes per WS-section, hard cap 15 (soft caps van 7 worden genegeerd tenzij scratchpad). Opus 4.6 subagents: 4-7 quotes haalbaar zonder scratchpad. Verschil zit in model self-discipline, niet in principe. Voor Dembrane-Gemini-2.5-specifieke calibration-getallen: zie het Dembrane-platform. Principe (cap + drop/keep-priority) is universeel.
+Cap-getallen verschillen per model. Gemini 2.5 Pro: target 10-12 quotes per WS-section, hard cap 15 (soft caps van 7 worden genegeerd tenzij scratchpad). Opus 4.6 subagents: 4-7 quotes haalbaar zonder scratchpad. Verschil zit in model self-discipline, niet in principe. Voor platform-specifieke calibration-getallen: zie de documentatie van het transcript-platform dat je gebruikt. Principe (cap + drop/keep-priority) is universeel.
 
 ---
 
@@ -384,8 +389,6 @@ De ultieme toets voor elke prompt-output:
 ALS deelnemers denken "ja, dat zeiden wij" → SUCCES
 ALS deelnemers denken "dat klinkt als een consultant" → MISLUKT
 ```
-
-Bron: `sources/examples/Dembrane/MasterPromptGenerator.md`
 
 Bouw dit criterium in als instructie in je prompt:
 
@@ -399,7 +402,7 @@ Als zij denken "dat klinkt als een consultant" → mislukt.
 
 ## Het labelingsprincipe: wie zei wat
 
-Output moet altijd onderscheid maken tussen wat mensen zeiden en wat AI opmerkt. Niet optioneel. Bron: `docs/guides/eigenaarschap-taal.md`, `sources/examples/Dembrane/MasterPromptGenerator.md`
+Output moet altijd onderscheid maken tussen wat mensen zeiden en wat AI opmerkt. Niet optioneel.
 
 ### Structuur
 
@@ -465,13 +468,13 @@ Voorbeeld:
 
 ### Waarom dit een eigen sectie verdient
 
-Multi-voice handling = geen detail. Output die collectieve intent overstating bevat = meest voorkomende vorm waarin facilitator-output als consultant-stem leest. Lezers herkennen meteen dat "you came to the table to" niet uit hun mond komt, eigenaarschap weg. Hard regels in prompt, niet best-effort. **Bron:** IFAD/OTD pilot sessie 1 v1 naar v5 iteratie-cyclus. Verifeerd dat hard rule + (a)/(b) replacement-strategieën collective-intent-overstatement reduceren tot 0 in v4-v5.
+Multi-voice handling = geen detail. Output die collectieve intent overstating bevat = meest voorkomende vorm waarin facilitator-output als consultant-stem leest. Lezers herkennen meteen dat "you came to the table to" niet uit hun mond komt, eigenaarschap weg. Hard regels in prompt, niet best-effort. Empirisch verifeerd via een pilot bij een internationale organisatie (sessie 1, v1 naar v5 iteratie-cyclus): hard rule + (a)/(b) replacement-strategieën reduceren collective-intent-overstatement tot 0 in v4-v5.
 
 ---
 
 ## DIRECT vs INFERENCE markeren
 
-Prompt-patroon uit SGv2-architectuur dat elke analyse-prompt sterker maakt. Bron: `docs/scans/sgv2-prompts-architectuur.md`
+Prompt-patroon uit een latere prompt-architectuur dat elke analyse-prompt sterker maakt.
 
 ```markdown
 Wees expliciet over wat je DIRECT uit het transcript haalt
@@ -489,7 +492,7 @@ Maakt verschil zichtbaar tussen "iemand zei letterlijk X" en "ik leid af dat Y."
 
 ## Dubbele zekerheidsscoring
 
-Nog een patroon uit SGv2-prompt-evolutie: splits "hoe zeker ben ik?" in twee aparte scores. Bron: `docs/scans/sgv2-prompts-architectuur.md`
+Nog een patroon uit prompt-evolutie: splits "hoe zeker ben ik?" in twee aparte scores.
 
 | Score | Wat het meet | Voorbeeld |
 |-------|-------------|-----------|
@@ -502,7 +505,7 @@ Nog een patroon uit SGv2-prompt-evolutie: splits "hoe zeker ben ik?" in twee apa
 
 ## Zekerheidsniveaus in taal
 
-Hoe AI onzekerheid moet formuleren, van zeker naar onzeker. Bron: `docs/guides/eigenaarschap-taal.md`
+Hoe AI onzekerheid moet formuleren, van zeker naar onzeker.
 
 | Niveau | Formulering | Wanneer |
 |--------|-------------|---------|
@@ -526,7 +529,7 @@ Transcripten bevatten artifacts: mishearing, garbled acronyms, names mis-transcr
 
 | Optie | Wanneer | Voorbeeld |
 |---|---|---|
-| **(a) Flag inline** | Lezer kan met flag verder, artifact is een woord | `"we hadden [likely: IFAD] gesprek met..."` (transcript zei `EFAD`) |
+| **(a) Flag inline** | Lezer kan met flag verder, artifact is een woord | `"we hadden [likely: ACRONYM] gesprek met..."` (transcript zei misgehoorde variant) |
 | **(b) Pick different verbatim segment** | Hetzelfde meaning carries in ander segment van dezelfde voice | Vervang quote door andere quote van zelfde spreker waar artifact niet inzit |
 | **(c) Sidestep via paraphrase** | Geen ander verbatim mogelijk; rest van quote toch waardevol | Lift de claim eruit zonder aanhalingstekens, met markering dat het paraphrase is |
 
@@ -538,14 +541,11 @@ In prompt expliciet noemen welke artifacts bekend zijn voor dit project. Voorbee
 
 | Artifact (transcript) | Likely correction | Project |
 |---|---|---|
-| `class` | `Quass` | IFAD/OTD |
-| `EFAD` | `IFAD` | IFAD/OTD |
-| `DCU` | `DCO` | IFAD/OTD |
-| `GS` | `GES` | IFAD/OTD |
-| `PRG` | `POLG` | IFAD/OTD |
-| `co business` | `core business` | IFAD/OTD |
+| `class` | `Quass` | (voorbeeld) |
+| `EFAD` | `ACRONYM` | (voorbeeld misgehoord acroniem) |
+| `co business` | `core business` | (voorbeeld) |
 
-Bekend-artifact-lijst is project-specifiek. Hoort niet in master document, hoort in per-klant pointer-file (bv. NatieKlant `werkdocs/dembrane-prompt-best-practices.md`).
+Bekend-artifact-lijst is project-specifiek. Hoort niet in master document, hoort in per-klant pointer-file.
 
 ### In de prompt
 
@@ -569,7 +569,7 @@ Zelfde mechanisme als eigenaarschap-door-taal (principe 4): hun woorden tellen, 
 
 ## Prompt-anatomie: vormen en variaties
 
-Geen één manier om een prompt te bouwen. Echo-prompt = 4 regels. Thematische synthese-prompt = 30. Wat ze delen is intentie, niet format. Hieronder uitgebreide bouwblok voor complexere prompts, maar onthoud: krachtigste prompt in de Veldgids is de kortste. Bron: `sources/examples/Dembrane/MasterPromptGenerator.md`, `sources/examples/Dembrane/prompt_patterns.md`
+Geen één manier om een prompt te bouwen. Echo-prompt = 4 regels. Thematische synthese-prompt = 30. Wat ze delen is intentie, niet format. Hieronder uitgebreide bouwblok voor complexere prompts, maar onthoud: de krachtigste prompt is de kortste.
 
 ```markdown
 **Rol**: [Specifieke expertise, wees precies]
@@ -613,13 +613,13 @@ Niet elke prompt heeft alle secties nodig. Drie vormen die in praktijk werken:
 | **Compact** (rol + randvoorwaarden + output) | Specifieke extractie, gerichte analyse | Kernbesluiten capture, energie-analyse |
 | **Minimaal** (context + één instructie) | Live interventie, snelle reflectie | Echo-prompt, frisse-blik-vraag |
 
-Echo-prompt bewees dat 4 regels genoeg zijn voor krachtigste interventie in hele Veldgids. Complexiteit is geen kwaliteit.
+Echo-prompt bewees dat 4 regels genoeg zijn voor de krachtigste interventie. Complexiteit is geen kwaliteit.
 
 ---
 
 ## De transparantie-footer
 
-Bij documenten die naar deelnemers gaan = transparantie-footer waardevol. Hoe zwaarder het document (visie, plan, synthese), hoe belangrijker. Bij live echo-vraag van twee zinnen: overkill. Bron: `docs/guides/ethiek-filosofie.md`
+Bij documenten die naar deelnemers gaan = transparantie-footer waardevol. Hoe zwaarder het document (visie, plan, synthese), hoe belangrijker. Bij live echo-vraag van twee zinnen: overkill.
 
 ```markdown
 > **Over deze output:** Deze [synthese/analyse/visie] is gemaakt door AI
@@ -637,17 +637,15 @@ Een van de belangrijkste meta-lessen uit de verrijkingssessies van februari 2026
 
 > **De prompt IS de techniek.** Vooral in fase 2 en 3 zijn de meegeleverde prompts geen losse instrumentjes om een theorie uit te voeren; de prompt ís de architectuur van de theorie.
 
-Bron: `INSIGHTS.md` §11b
-
 Behandel prompt-ontwerp niet als afterthought. Prompt bepaalt wat AI ziet, hoe het structureert, welke taal het gebruikt, wat het wel/niet mag concluderen. Zwakke prompt met sterke theorie = zwakke output. Sterke prompt met beperkte theorie = verrassend goede output.
 
 ### Constraints op één plek (Saint-Exupéry strip principle)
 
-Een prompt is af niet wanneer alles wat nodig is erin staat, maar wanneer alles wat dubbel staat eruit is. Saint-Exupéry's *"perfection is achieved when there is nothing left to take away"* geldt ook voor prompt-architectuur. Toepassing: als platform een project-context-veld heeft dat één keer geüpload wordt en automatisch bij elke call meegegeven (Dembrane bv.), horen universele constraints daar, niet herhaald per-prompt. Hetzelfde voor de zeven baseline-richtlijnen (em-dash verbod, AI-protagonist verbod, privacy/namen regel, recognition test, verbatim-default, document-stem, zorgvuldigheid): zit altijd-actief in system-layer, niet per-prompt. Per-prompt-instructie draagt alleen wat uniek is voor dat moment.
+Een prompt is af niet wanneer alles wat nodig is erin staat, maar wanneer alles wat dubbel staat eruit is. Saint-Exupéry's *"perfection is achieved when there is nothing left to take away"* geldt ook voor prompt-architectuur. Toepassing: als een platform een project-context-veld heeft dat één keer geüpload wordt en automatisch bij elke call meegegeven, horen universele constraints daar, niet herhaald per-prompt. Hetzelfde voor de zeven baseline-richtlijnen (em-dash verbod, AI-protagonist verbod, privacy/namen regel, recognition test, verbatim-default, document-stem, zorgvuldigheid): zit altijd-actief in system-layer, niet per-prompt. Per-prompt-instructie draagt alleen wat uniek is voor dat moment.
 
 | Laag | Wat hier hoort | Voorbeeld |
 |---|---|---|
-| **System / project-context** | Universele constraints die altijd gelden | De zeven baseline-richtlijnen, Dembrane project-context-veld, output-language |
+| **System / project-context** | Universele constraints die altijd gelden | De zeven baseline-richtlijnen, platform project-context-veld, output-language |
 | **Prompt-context (boilerplate)** | Constraints voor dit type prompt | Verbatim-default, kernbegrenzingen, output-format |
 | **Per-prompt-instructie** | Unieke instructie voor dit moment | Specifieke vraag, focus-thema, deze-sessie-context |
 
@@ -657,24 +655,24 @@ Dubbel staande constraints, strippen niet stapelen. Iedere extra herhaling = ris
 
 ## Frustratie als brandstof, niet wegwerken
 
-Een prompt mag frustratie niet wegpoetsen. Een van de belangrijkste lessen uit Doesburg-ervaring. Bron: `docs/guides/ethiek-filosofie.md` (De Systeem-Paradox)
+Een prompt mag frustratie niet wegpoetsen. Een van de belangrijkste lessen uit het Doesburg-traject.
 
 ```
 Niet: "Formuleer uitdagingen constructief"
 Wel:  "Frustraties mogen er zijn zoals ze zijn uitgesproken"
 ```
 
-**Waarom:** Toen financiering in Doesburg wegviel, ontstond hoogste niveau eigenaarschap in de hele dataset. Community besefte: "we moeten zelf de regie pakken." Was AI ingezet om het verlies te "herkaderen tot nieuwe kansen," dan was deze vitale rebellie in de kiem gesmoord.
+**Waarom:** Toen in het Doesburg-traject de financiering wegviel, ontstond hoogste niveau eigenaarschap in de hele dataset. Community besefte: "we moeten zelf de regie pakken." Was AI ingezet om het verlies te "herkaderen tot nieuwe kansen," dan was deze vitale rebellie in de kiem gesmoord.
 
 **Regel:** Gebruik AI om de complexiteit van frustratie te structureren. Gebruik AI nooit om het ongemak weg te poetsen.
 
 ---
 
-## Prompt-evolutie: van v2 naar v3-sgv2
+## Prompt-evolutie: van v2 naar v3
 
-Rode lijn in hoe prompts beter worden, op 16 maanden ervaring. Bron: `docs/scans/sgv2-prompts-architectuur.md`
+Rode lijn in hoe prompts beter worden, op 16 maanden ervaring.
 
-| Wat veranderde | v2 (vroeger) | v3-sgv2 (nu) |
+| Wat veranderde | v2 (vroeger) | v3 (nu) |
 |----------------|-------------|--------------|
 | **Zekerheid** | Één confidence-getal | Twee scores: bewijs_sterkte + interpretatie_zekerheid |
 | **Updates** | Elke analyse stond op zichzelf | Vergelijking met vorige run (change logs, diffs) |
@@ -688,7 +686,7 @@ Rode lijn in hoe prompts beter worden, op 16 maanden ervaring. Bron: `docs/scans
 
 ## Serendipity: de ongestelde vraag
 
-De krachtigste prompt-output is vaak niet het antwoord op de vraag, maar de vraag die niemand stelde. Bron: `sources/examples/Dembrane/MasterPromptGenerator.md`, `sources/examples/Dembrane/prompt_patterns.md`
+De krachtigste prompt-output is vaak niet het antwoord op de vraag, maar de vraag die niemand stelde.
 
 ### Gestructureerde serendipity
 
@@ -725,16 +723,16 @@ Output:
 
 ## De zelftest voor prompt-ontwerp
 
-Voor je een prompt finaliseert, loop deze checks door. Drie lagen: Joost-toets (9 vragen), bedachtzaamheids- en vertrouwens-laag (attitude waarmee je de toetsen doet), technische zelftest (9 checks).
+Voor je een prompt finaliseert, loop deze checks door. Drie lagen: ontwerper-toets (9 vragen), bedachtzaamheids- en vertrouwens-laag (attitude waarmee je de toetsen doet), technische zelftest (9 checks).
 
-### De Joost-toets voor prompts
+### De ontwerper-toets voor prompts
 
 | # | Vraag | Wat het bewaakt |
 |---|-------|-----------------|
 | 1 | **Staat AI centraal, of de mens?** AI mag instrument zijn, nooit subject. | De prompt instrueert AI om te spiegelen, niet om te beslissen |
 | 2 | **Klinkt dit als ervaring, of als theorie?** | De prompt vraagt om concrete taal, niet om abstracties |
 | 3 | **Claim ik credit die niet van mij is?** | De prompt labelt wat van deelnemers komt vs wat AI toevoegt |
-| 4 | **Is dit Engels in vermomming?** Doesburg-toets: zou een facilitator dit woord gebruiken? | De prompt gebruikt Nederlands waar mogelijk (betrokkenen, niet stakeholders) |
+| 4 | **Is dit Engels in vermomming?** Toets: zou een facilitator dit woord gebruiken? | De prompt gebruikt Nederlands waar mogelijk (betrokkenen, niet stakeholders) |
 | 5 | **Schrijf ik voor, of nodig ik uit?** Spanningen zijn geen fouten. | De prompt presenteert tegenstrijdigheden als keuzemomenten, niet als problemen |
 | 6 | **Heb ik iets verzonnen om het mooier te maken?** | De prompt dwingt strikt-op-transcript af |
 | 7 | **Zou dit de hoofdvraag beantwoorden?** Helpt dit mensen om gehoord te worden? | De prompt dient uiteindelijk de toetssteen |
@@ -743,7 +741,7 @@ Voor je een prompt finaliseert, loop deze checks door. Drie lagen: Joost-toets (
 
 ### De bedachtzaamheids- en vertrouwens-laag
 
-Tussen Joost-toets en technische check ligt iets dat in geen van beide volledig zit: de **attitude waarmee je de toetsen doet**. Sneller doorlopen = vinkjes; bedachtzamer = betere prompts.
+Tussen ontwerper-toets en technische check ligt iets dat in geen van beide volledig zit: de **attitude waarmee je de toetsen doet**. Sneller doorlopen = vinkjes; bedachtzamer = betere prompts.
 
 **Bedachtzaamheid, stop en denk na.**
 
@@ -764,9 +762,9 @@ Vier zelfvragen bij vertrouwen:
 - *Wat zou nodig zijn om deze output goed te laten landen? Vertrouwensbrug, timing, framing?*
 - *Gaan we hier goed om met wat ze hebben gedeeld? Kunnen ze ons aankijken nadat dit landt?*
 
-Deze laag staat boven de andere toetsen, niet als extra regel maar als grondhouding. Een prompt die de Joost-toetsvragen passeert maar deze laag overslaat = technisch correct werk dat vertrouwen kan beschadigen.
+Deze laag staat boven de andere toetsen, niet als extra regel maar als grondhouding. Een prompt die de ontwerper-toetsvragen passeert maar deze laag overslaat = technisch correct werk dat vertrouwen kan beschadigen.
 
-### De technische zelftest (9 checks), bron: `sources/examples/Dembrane/MasterPromptGenerator.md`
+### De technische zelftest (9 checks)
 
 - [ ] Is het AI-waardeniveau (Spiegel/Synthese/Serendipity) passend voor de taak?
 - [ ] Bewaren de instructies de taal van deelnemers op spiegel-niveau?
@@ -784,7 +782,7 @@ Deze laag staat boven de andere toetsen, niet als extra regel maar als grondhoud
 
 Zelftest hierboven = voor ontwerper, vóór sessie. Pre-flight (volgende sectie) = ook voor ontwerper, vóór live. Deze sectie = wat AI zelf controleert vóór output: checklist ingebed in de prompt.
 
-Reden: sommige modellen (Gemini 2.5 Pro empirisch geverifieerd via IFAD v1 naar v5 cyclus) vergeten of conflateren regels die los in de prompt-body verspreid staan. Expliciete 5-7 item checklist aan einde van prompt, expliciet als *"Voer voor submit deze gates uit"*, werkt beter dan rules in body. Opus-class modellen doen dit impliciet; voor hen vaak overbodig.
+Reden: sommige modellen (Gemini 2.5 Pro empirisch geverifieerd via een v1-naar-v5 cyclus bij een internationale organisatie) vergeten of conflateren regels die los in de prompt-body verspreid staan. Expliciete 5-7 item checklist aan einde van prompt, expliciet als *"Voer voor submit deze gates uit"*, werkt beter dan rules in body. Opus-class modellen doen dit impliciet; voor hen vaak overbodig.
 
 ### Template voor pre-output checklist (in de prompt zelf)
 
@@ -814,13 +812,13 @@ Voor Opus-class modellen vaak overbodig. Voor Gemini-class modellen: standaard i
 
 | Vergelijking | Wie test | Wanneer |
 |---|---|---|
-| Joost-toets (9 vragen, incl. bedachtzaamheid + vertrouwen) | Mens-ontwerper | Vóór prompt finaliseren |
-| Bedachtzaamheids- en vertrouwens-laag (attitude-check) | Mens-ontwerper | Tussen Joost-toets en technische check |
+| Ontwerper-toets (9 vragen, incl. bedachtzaamheid + vertrouwen) | Mens-ontwerper | Vóór prompt finaliseren |
+| Bedachtzaamheids- en vertrouwens-laag (attitude-check) | Mens-ontwerper | Tussen ontwerper-toets en technische check |
 | Technische zelftest (9 checks) | Mens-ontwerper | Vóór prompt finaliseren |
 | Pre-flight checks | Mens-ontwerper | Vóór live sessie, na finaliseren |
 | **Pre-output checklist** | **AI-model** | **Tijdens elke prompt-uitvoering, vóór submit** |
 
-Voor model-specifieke calibratie (welke checklist-items op welk model nodig zijn): zie het Dembrane-platform voor Gemini-2.5-specifieke caveats.
+Voor model-specifieke calibratie (welke checklist-items op welk model nodig zijn): raadpleeg de documentatie van het transcript-platform dat je gebruikt voor model-specifieke caveats.
 
 ---
 
@@ -862,7 +860,7 @@ Prompt die er goed uitziet ≠ prompt die werkt. Pre-flight = vangnet, vijf chec
 
 ### Hoe je test
 
-1. Pak oud transcript (Doesburg, Rianne, GGZ, maakt niet uit welk)
+1. Pak oud transcript (welk dan ook)
 2. Draai prompt op model dat je in sessie gaat gebruiken
 3. Lees output hardop voor, klinkt het als iets dat de facilitator zou zeggen?
 4. Laat iemand anders output lezen zonder context, herkennen ze de deelnemers?
@@ -927,11 +925,11 @@ Modellen verschillen in hoe ze instructies opvolgen. Prompt die op Opus prachtig
 
 ### Als het model wisselt
 
-Dembrane gaat over naar nieuw model: draai actieve prompts opnieuw door pre-flight. Eén middag werk voorkomt live verrassingen.
+Wanneer een platform overgaat naar een nieuw model: draai actieve prompts opnieuw door pre-flight. Eén middag werk voorkomt live verrassingen.
 
 ### High-stakes output vereist model-kwaliteit boven prompt-richness
 
-Output naar mensen (deelnemers, leadership) met praktitionersnaam erop, waar texture > speed: kies model-kwaliteit boven prompt-richness. Plateau-effecten van mindere modellen op multi-voice differentiation, contestation-depth, specific-anchor retention, meta-frame (wat NIET is gezegd) = niet via prompt-tightening te dichten. Bewezen via 5-iteratie cyclus (v1 naar v5) tegen subagent-baseline.
+Output naar mensen (deelnemers, leadership) met praktitionersnaam erop, waar texture > speed: kies model-kwaliteit boven prompt-richness. Plateau-effecten van mindere modellen op multi-voice differentiation, contestation-depth, specific-anchor retention, meta-frame (wat NIET is gezegd) = niet via prompt-tightening te dichten. Bewezen via 5-iteratie cyclus (v1 naar v5) tegen subagent-baseline bij een internationale organisatie.
 
 Beslissingsregel:
 
@@ -944,13 +942,13 @@ Beslissingsregel:
 
 Pre-flight test op doel-model = verplicht: prompt die op Opus prachtig werkt kan op Gemini stil falen op exact de criteria die deelnemer-output dragen.
 
-Voor model-specifieke plateau-effecten + workflow-split tabel: zie het Dembrane-platform voor Gemini-2.5-specifieke caveats.
+Voor model-specifieke plateau-effecten + workflow-split tabel: raadpleeg de documentatie van het transcript-platform dat je gebruikt voor model-specifieke caveats.
 
 ---
 
 ## Spanningen in prompt-ontwerp
 
-De Veldgids zegt: spanningen zijn geen fouten. Het zijn keuzemomenten. Geldt ook voor prompt-ontwerp. Hieronder terugkerende spanningen, met de keuze die je steeds opnieuw maakt.
+Spanningen zijn geen fouten. Het zijn keuzemomenten. Geldt ook voor prompt-ontwerp. Hieronder terugkerende spanningen, met de keuze die je steeds opnieuw maakt.
 
 ### Spanning 1: Letterlijk citeren vs begrijpelijk maken
 
@@ -1000,7 +998,7 @@ Voor wanneer je prompt schrijft en snel betere formulering wilt vinden:
 | "Vat samen in heldere taal" | "Gebruik hun exacte woorden" | Eigenaarschap behouden |
 | "Analyseer de thema's" | "Spiegel: maak thema's zichtbaar in hun woorden" | Niveau expliciet maken |
 | "Maak een definitieve samenvatting" | "Maak output die de groep helpt verder te praten" | Dialoog is het doel |
-| Stakeholders, reframen, tracken | Betrokkenen, herkaderen, bijhouden | Doesburg-toets |
+| Stakeholders, reframen, tracken | Betrokkenen, herkaderen, bijhouden | Doesburg-toets: zou een facilitator dit woord gebruiken? |
 | Conclusies trekken | Vragen stellen | Vragen openen; conclusies sluiten |
 
 ---
@@ -1026,8 +1024,6 @@ Voor wanneer je prompt schrijft en snel betere formulering wilt vinden:
 ### Het substitutie-moment
 
 Het gevaarlijkste moment: iemand vraagt "kan de AI niet gewoon het plan invullen?"
-
-Bron: `docs/guides/ethiek-filosofie.md`
 
 **Herkennen:** "Kan de AI niet gewoon...?", enthousiasme zonder kritische vragen, vertrouwen op "confident AI" zonder verificatie.
 
@@ -1060,12 +1056,12 @@ Reden: fysieke metafoor doet werkelijkheid geweld aan en is eigenaarschap-precis
 | WRONG (digital sessie) | RIGHT |
 |---|---|
 | "Five colleagues walked in for the workshop." | "Five colleagues joined the workshop." |
-| "Sara stepped into the breakout room." | "Sara came into the breakout room." |
+| "A participant stepped into the breakout room." | "A participant came into the breakout room." |
 | "Everyone at the table agreed." | "Everyone present agreed." |
 
 ### Verwante conventies elders in dit document
 
-- **Em-dashes naar buiten**: niet hier; geldt voor Joost's persoonlijke output (zie aparte voice-richtlijn). Voor algemene AI-output naar deelnemers: em-dashes acceptabel mits niet over-gebruikt.
+- **Em-dashes naar buiten**: niet hier; geldt voor de auteur's persoonlijke output (zie aparte voice-richtlijn). Voor algemene AI-output naar deelnemers: em-dashes acceptabel mits niet over-gebruikt.
 - **Hard name rule**: zie "Privacy als ontwerpprincipe" sectie. Zero proper first names + replacement-strategieën.
 - **AI-protagonist verbod**: zie richtlijn #2 hierboven. Geen "our analysis", "we noticed".
 
@@ -1093,7 +1089,6 @@ Instructies:
 4. Kies tactiek: Verdiepend / Concretiserend / Reflecterend
 ```
 
-Bron: `sources/examples/Dembrane/prompt_patterns.md` (Echo Interventie)
 
 ### Patroon 2: Thematische synthese (post-sessie)
 
@@ -1114,7 +1109,6 @@ Instructies:
 5. Benoem openstaande vragen en controverses
 ```
 
-Bron: `sources/examples/Dembrane/prompt_patterns.md` (Thematische Synthese)
 
 ### Patroon 3: Eigenaarschap-bewarende visie
 
@@ -1139,7 +1133,6 @@ Output moet bevatten:
 [Transparantie-footer]
 ```
 
-Bron: `sources/examples/rianne/sessie_1/` (WHY prompt)
 
 ---
 
@@ -1149,7 +1142,6 @@ Prompts werken zelden in isolatie. In een sessie vormen ze een keten waarbij elk
 
 ### De standaard workflow
 
-Bron: `docs/guides/timing-live.md`, `sources/examples/Dembrane/prompt_patterns.md`
 
 ```
 WHY-prompt          →  Visie/motivatie vastleggen in hun woorden
@@ -1167,7 +1159,7 @@ Elke prompt in keten heeft ander doel en ander niveau (Spiegel → Synthese → 
 
 Cruciale les: wanneer prompts na elkaar komen, wordt output van vorige prompt context voor volgende. Zo ontworpen, maar er zijn spelregels.
 
-**De regel:** Gebruik eerdere AI-output als context, NIET als bron. Transcript blijft primaire bron. Eerdere AI-output helpt volgende prompt om niet dezelfde grond te bewerken, maar mag niet plek innemen van wat mensen daadwerkelijk zeiden. Bron: `docs/guides/iteratie-samenwerking.md` (Staged Loading Protocol)
+**De regel:** Gebruik eerdere AI-output als context, NIET als bron. Transcript blijft primaire bron. Eerdere AI-output helpt volgende prompt om niet dezelfde grond te bewerken, maar mag niet plek innemen van wat mensen daadwerkelijk zeiden.
 
 **In de prompt:**
 ```markdown
@@ -1191,14 +1183,14 @@ Bij "doordraaien" = snelheid het geheim: Groep 2 start 10 min na Groep 1 en ziet
 
 ## Privacy als ontwerpprincipe
 
-Privacy = geen checkbox aan het eind. Ontwerpbeslissing bij eerste woord van je prompt. Bron: `docs/scans/sgv2-prompts-architectuur.md`
+Privacy = geen checkbox aan het eind. Ontwerpbeslissing bij eerste woord van je prompt.
 
 ### De basisregels
 
-- **Rolomschrijvingen, nooit namen:** "een zorgverlener" i.p.v. "Rianne." Tenzij expliciete toestemming voor naam-vermelding.
+- **Rolomschrijvingen, nooit namen:** "een zorgverlener" i.p.v. een eigennaam. Tenzij expliciete toestemming voor naam-vermelding.
 - **Abstractie met behoud van herkenning:** "een deelnemer die frustratie uitte over financiering" laat patroon intact zonder persoon bloot te leggen.
 - **Validatiedrempels voor cross-project:** Patroon is pas deelbaar als het in 3+ onafhankelijke bronnen verschijnt. Gevoelige onderwerpen: 2x die drempel.
-- **Zero proper first names rule:** géén proper first names in output naar deelnemers of buiten. Quote met naam? Drie opties: (a) pick different verbatim segment dat dezelfde meaning carries zonder naam, OF (b) replace naam met `[a colleague]` / `[an earlier voice]`, OF (c) strip de naam uit quoted text en vervang met `[participant]` / `[speaker]`. Stakeholder lists by role only ("the IT lead", "the GIS specialist").
+- **Zero proper first names rule:** géén proper first names in output naar deelnemers of buiten. Quote met naam? Drie opties: (a) pick different verbatim segment dat dezelfde meaning carries zonder naam, OF (b) replace naam met `[a colleague]` / `[an earlier voice]`, OF (c) strip de naam uit quoted text en vervang met `[participant]` / `[speaker]`. Stakeholder lists by role only ("de IT-lead", "de GIS-specialist").
 - **Neutrale speaker-labels als rol onbekend is:** wanneer voices onderscheiden moeten worden maar rol niet bekend (multi-voice transcript zonder rol-context), gebruik `Speaker A`, `Speaker B`, `Speaker C`, NOOIT namen. Beter dan namen waar rol-attribution ontbreekt.
 - **Redaction-placeholders nooit in output:** strings zoals `<redacted_name>`, `[NAAM]`, `<participant>` mogen NOOIT in eindversie verschijnen. Als ze opduiken: model heeft (a)/(b)/(c) niet toegepast. Pre-output checklist moet dit afvangen.
 - **Anonimisering geldt voor hele pipeline, niet alleen output:** namen mogen NIET verschijnen in body, headers, metadata, tags, kop-attributies, footers, of welk veld dan ook. Tijdens analyse zelf, niet alleen bij final output, refereert AI alleen aan voices via rol of label. Voorkomt dat AI namen "onthoudt" en later per ongeluk reproduceert.
@@ -1210,7 +1202,7 @@ Gebruik rolomschrijvingen, nooit namen.
 Zero proper first names in output. Wanneer een verbatim quote een naam bevat:
 - (a) pick een ander verbatim segment dat dezelfde meaning carries zonder naam, OR
 - (b) replace de naam met "[a colleague]" of "[an earlier voice]".
-Stakeholder lists by role only ("the IT lead", "the GIS specialist"), nooit names.
+Stakeholder lists by role only ("de IT-lead", "de GIS-specialist"), nooit names.
 Beschrijf patronen abstract genoeg dat geen individu herkenbaar is.
 Bij citaten: gebruik zonder speaker-attributie of met role-attribution.
 Redaction-placeholders ("<redacted_name>", "[NAAM]") mogen NOOIT in output verschijnen.
@@ -1218,11 +1210,11 @@ Redaction-placeholders ("<redacted_name>", "[NAAM]") mogen NOOIT in output versc
 
 ### Waarom hard rule en niet best-effort
 
-Empirisch: Gemini 2.5 Pro lekt names als rule soft is (v3 IFAD-test had "Savi/Ricardo/Lars/Michelle" in deelnemer-output). Met hard rule + (a)/(b)/(c) replacement-strategieën: zero leakage in v4-v5. Rule moet expliciet als gate worden geformuleerd, niet impliciet via "wees voorzichtig met namen".
+Empirisch: Gemini 2.5 Pro lekt names als rule soft is (v3-test bij een internationale organisatie had meerdere deelnemer-namen in de output). Met hard rule + (a)/(b)/(c) replacement-strategieën: zero leakage in v4-v5. Rule moet expliciet als gate worden geformuleerd, niet impliciet via "wees voorzichtig met namen".
 
 ### Het absolute-anonymity blok: wanneer platform-anonimisatie niet aan kan
 
-Sommige sessies kun je niet via platform-anonimisatie (Dembrane anonymize-feature, auto-anonymize in Chat) afdwingen omdat **andere named entities behouden moeten blijven**: gebiedsontwikkeling waar straatnamen, buurtnamen, gebouwnamen wel in output moeten staan; sessies waar organisatie-namen of project-namen functioneel zijn; analyses waar specifieke locaties dragend zijn voor patroon.
+Sommige sessies kun je niet via platform-anonimisatie (transcript-platform anonymize-feature, auto-anonymize in chat) afdwingen omdat **andere named entities behouden moeten blijven**: gebiedsontwikkeling waar straatnamen, buurtnamen, gebouwnamen wel in output moeten staan; sessies waar organisatie-namen of project-namen functioneel zijn; analyses waar specifieke locaties dragend zijn voor patroon.
 
 In die gevallen: platform-laag-anonimisering uitzetten (anders zou alles weg gaan) en namen-anonimisering uitsluitend via prompt-laag afdwingen. Vereist harder gate-formuleren dan default, een **absolute-anonymity blok** in de prompt zelf.
 
@@ -1263,7 +1255,7 @@ This applies even if names appear in the transcript. During analysis:
 
 **Wanneer dit blok inzetten:** platform-anonimisatie uitstaat omdat entity-namen behouden moeten blijven (straten, gebouwen, organisaties); high-stakes participant-output waar één naam-lek schadelijk is voor vertrouwen; klant-projecten met expliciete privacy-anchors (OECD-deliberative-frame, GDPR-compliance-vereisten); gevoelige onderwerpen waar persoonlijke uitspraken anders herleidbaar worden.
 
-**Wanneer dit blok NIET nodig is:** platform-anonimisatie staat aan (Dembrane anonymize-feature), die doet het werk al; output is intern (coaching mirror, scratch analyse), soft zero-name regel volstaat; sessie heeft expliciete naam-vermelding-toestemming met named role-attribution.
+**Wanneer dit blok NIET nodig is:** platform-anonimisatie staat aan (zoals de anonymize-feature in Dembrane), die doet het werk al; output is intern (coaching mirror, scratch analyse), soft zero-name regel volstaat; sessie heeft expliciete naam-vermelding-toestemming met named role-attribution.
 
 ### Wanneer privacy extra aandacht verdient
 
@@ -1277,7 +1269,7 @@ This applies even if names appear in the transcript. During analysis:
 
 ## Iteratie: hoe een prompt evolueert
 
-Prompt ontstaat niet in één keer. 12-rondes transformatieplan-journey laat zien hoe. Bron: `docs/guides/iteratie-samenwerking.md`
+Prompt ontstaat niet in één keer. Een 12-rondes transformatieplan-journey laat zien hoe.
 
 1. Beschrijf wat je wilt → 2. AI stelt aanpak voor → 3. Jij voegt context toe (draaiboek, sessie-flow) → 4. AI past aan → 5. **Cruciale correctie:** "De AI heeft geen toegang tot het voorbeeldplan, dus neem de schrijfstijl mee IN de prompt" → 6. AI verwerkt correctie → 7. Test met echt materiaal → 8. Verfijn op basis van output-kwaliteit.
 
@@ -1293,7 +1285,7 @@ Prompt ontstaat niet in één keer. 12-rondes transformatieplan-journey laat zie
 
 ## Tool-agnostisch ontwerpen
 
-Alle prompts in Veldgids werken met elke LLM. Vermijd: platform-specifieke instructies ("gebruik GPT-4 turbo"), API-specifieke formatting ("geef output als JSON"), tool-specifieke features ("gebruik internet search"). Gebruik in plaats daarvan: duidelijke rolverdeling, expliciete instructies in gewone taal, output-formats die in elk platform werken (markdown, platte tekst).
+Alle prompts in deze bundle werken met elke LLM. Vermijd: platform-specifieke instructies ("gebruik GPT-4 turbo"), API-specifieke formatting ("geef output als JSON"), tool-specifieke features ("gebruik internet search"). Gebruik in plaats daarvan: duidelijke rolverdeling, expliciete instructies in gewone taal, output-formats die in elk platform werken (markdown, platte tekst).
 
 ---
 
@@ -1303,19 +1295,19 @@ Alle prompts in Veldgids werken met elke LLM. Vermijd: platform-specifieke instr
 
 | Patroon | Nieuwe locatie in dit document | Bron-iteratie |
 |---|---|---|
-| Sentence case + No physical metaphors | "Output-naar-buiten conventies" sectie | IFAD/OTD v1 naar v5 |
-| Voice texture + Load-bearing disagreement + Contestation priority | "Multi-voice handling" sectie | IFAD/OTD v1 naar v5 |
-| Hard name rule + redaction-placeholder | "Privacy als ontwerpprincipe" → "Zero proper first names rule" | IFAD/OTD v3 naar v4 |
-| Mishearing escalation | "Transcript-artifacts handling" sectie | IFAD/OTD v3 naar v5 |
-| Saint-Exupéry strip principle | "Prompt als architectuur" → "Constraints op één plek" sub-sectie | IFAD v1 naar v5 |
-| Pre-output checklist | "Pre-output checklist: model-self-verification ingebed in prompt" sectie | IFAD v3 naar v5 (Gemini-specifieke noodzaak) |
-| Wanneer Dembrane verlaten / high-stakes model-keuze | "Model-bewustzijn" → "High-stakes output vereist model-kwaliteit boven prompt-richness" | IFAD v2 naar v5 |
+| Sentence case + No physical metaphors | "Output-naar-buiten conventies" sectie | pilot bij een internationale organisatie, v1 naar v5 |
+| Voice texture + Load-bearing disagreement + Contestation priority | "Multi-voice handling" sectie | pilot bij een internationale organisatie, v1 naar v5 |
+| Hard name rule + redaction-placeholder | "Privacy als ontwerpprincipe" → "Zero proper first names rule" | pilot bij een internationale organisatie, v3 naar v4 |
+| Mishearing escalation | "Transcript-artifacts handling" sectie | pilot bij een internationale organisatie, v3 naar v5 |
+| Saint-Exupéry strip principle | "Prompt als architectuur" → "Constraints op één plek" sub-sectie | pilot bij een internationale organisatie, v1 naar v5 |
+| Pre-output checklist | "Pre-output checklist: model-self-verification ingebed in prompt" sectie | pilot bij een internationale organisatie, v3 naar v5 (Gemini-specifieke noodzaak) |
+| Wanneer platform verlaten / high-stakes model-keuze | "Model-bewustzijn" → "High-stakes output vereist model-kwaliteit boven prompt-richness" | pilot bij een internationale organisatie, v2 naar v5 |
 | Vertrouwen als voorwaarde (later toegevoegd) | "Vertrouwen als voorwaarde" sectie | bottom-up wiki-praktijk principe #2, cross-bron 2026-05-12 |
-| Drie assen voor prompt-architectuur | "Drie assen voor prompt-architectuur" sectie | Tak D 2026-05-12 |
+| Drie assen voor prompt-architectuur | "Drie assen voor prompt-architectuur" sectie | 2026-05-12 |
 
-Iteratie-bron + decision-rationale per regel: NatieKlant `werkdocs/prompt-changes-tracker.md`. Subagent-playbook voor high-stakes participant-output: NatieKlant `werkdocs/subagent-playbook-trap1-trap2.md` als template voor andere clients.
+Iteratie-bron + decision-rationale per regel: per-klant werkdoc (bv. `werkdocs/prompt-changes-tracker.md`). Subagent-playbook voor high-stakes participant-output: per-klant werkdoc als template voor andere clients.
 
-Voor Dembrane-Gemini-2.5-specifieke caveats (quote density getallen, model-specific gates, plateau-effecten): zie het Dembrane-platform.
+Voor platform-specifieke caveats (quote density getallen, model-specific gates, plateau-effecten): raadpleeg de documentatie van het transcript-platform dat je gebruikt.
 
 ---
 
@@ -1545,7 +1537,7 @@ Anthropic raadt XML-tag-hiërarchie expliciet aan in hun prompt-engineering docs
 ### Log
 
 - 2026-05-14: XML-tag-volume sectie toegevoegd (Matt Pocock bug-fix principe, "loudness in prompts"). Bron: analyse van [mattpocock/skills changelog](https://github.com/mattpocock/skills/tree/main/skills/engineering/grill-with-docs).
-- 2026-05-14 (later): "Wat dit NIET is" herzien. Eerdere formulering ("XML-tag-volume is model-specifiek voor Anthropic-modellen") was een telefoon-spel-overstatement zonder primaire bron, ontstaan in de ketting inbox-analyse → agent-prompt → uitwerking. Nieuwe formulering: principe is universeel (opdracht-eerst, randvoorwaarden-apart), XML-syntax is één implementatie met Anthropic-aanbeveling én Matt's productie-evidence (n=1: geen klachten meer na fix). Markdown-headers blijven valide fallback. Correctie tijdens sparring rond Dembrane-prompts.
+- 2026-05-14 (later): "Wat dit NIET is" herzien. Eerdere formulering ("XML-tag-volume is model-specifiek voor Anthropic-modellen") was een telefoon-spel-overstatement zonder primaire bron, ontstaan in de ketting inbox-analyse → agent-prompt → uitwerking. Nieuwe formulering: principe is universeel (opdracht-eerst, randvoorwaarden-apart), XML-syntax is één implementatie met Anthropic-aanbeveling én Matt's productie-evidence (n=1: geen klachten meer na fix). Markdown-headers blijven valide fallback. Correctie tijdens sparring rond transcript-platform-prompts.
 
 ---
 
@@ -1672,7 +1664,7 @@ Implicatie: micro-lenzen verdienen mogelijk extra validatie. Macro-lenzen kunnen
 
 | Verplicht (3-pass) | Optioneel (1-pass acceptabel) |
 |---|---|
-| Nieuwe SM-entries in lens-pagina's | Lens-definition-revisies waar Joost-gate vergelijking doet |
+| Nieuwe SM-entries in lens-pagina's | Lens-definition-revisies waar de auteur-gate vergelijking doet |
 | Lens-uitrol op nieuwe bron (WS-transcript, meeting) | Verbatim-only werk (L5), verbatim is verbatim, lage prompt-gevoeligheid |
 | Syntheses voor 1-op-1 / director-deliverables | Reflecties / project-resource-notities niet als evidence |
 | Revalidation van single-prompt-origin entries | Quick scans / niet-evidence-werk |
@@ -1714,23 +1706,13 @@ Per facilitator-claim onderbouwbaar met "drie verschillende prompts vonden dit":
 
 ## Bronnen
 
-| Bron | Pad | Wat het bevat |
-|------|-----|---------------|
-| **INSIGHTS.md** | `INSIGHTS.md` §1 | De gouden regel, schrijfstijl, correcties |
-| **MasterPromptGenerator** | `sources/examples/Dembrane/MasterPromptGenerator.md` | Filosofische basis, kwaliteitscriteria, zelftest |
-| **Prompt patterns** | `sources/examples/Dembrane/prompt_patterns.md` | Concrete prompt-patronen per type |
-| **Ethiek & filosofie** | `docs/guides/ethiek-filosofie.md` | De drie pijlers, gevaarlijke momenten, warning signs |
-| **Eigenaarschap & taal** | `docs/guides/eigenaarschap-taal.md` | Het basismechanisme, taal-hiërarchie, labeling |
-| **Timing & live werken** | `docs/guides/timing-live.md` | Echo-patronen, live prompt-timing |
-| **Iteratie & samenwerking** | `docs/guides/iteratie-samenwerking.md` | 12-rondes journey, feedback-loops |
-| **SGv2 prompt-architectuur** | `docs/scans/sgv2-prompts-architectuur.md` | Prompt-evolutie, DIRECT/INFERENCE, dubbele scoring |
-| **GENEALOGIE-ANALYSE** | `docs/GENEALOGIE-ANALYSE.md` | Kernzin, facetten, kennisketen |
-| **Social AI Principes** | [Principes](./SOCIAL-AI-PRINCIPES.md) | Canonical bundle 15 principes, referentie voor prompt-vertaling |
+| Bron | Wat het bevat |
+|------|---------------|
+| **Social AI Principes** ([Principes](./SOCIAL-AI-PRINCIPES.md)) | Canonical bundle 15 principes, referentie voor prompt-vertaling |
 
 ---
 
-*Samengesteld uit 9 brondocumenten, maart 2026*
-*Auteur: Joost Liebregts (via Claude Code)*
+*Samengesteld uit jaren facilitatie-praktijk en interne brondocumenten, maart 2026*
 
 ---
 

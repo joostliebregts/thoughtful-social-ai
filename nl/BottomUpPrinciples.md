@@ -1,12 +1,16 @@
 # Bottom-up proces
 
-> Samenvatting uit een boek over bottom-up systeemtransformatie. Exacte titel en auteur worden hier later toegevoegd.
+> **Bron.** Samenvatting van het bottom-up gedachtegoed dat Floor de Ruiter ontwikkelt en deelt. Zie [bottom-upchange.nl](https://bottom-upchange.nl) voor het volledige werk en methode.
 
 > **Levend document**, continu in ontwikkeling.
 > Eerste versie najaar 2025 (mogelijk eerder). Publiek gepubliceerd 2026-05-20.
 >
 > Onderdeel van [Thoughtful Social AI](../README.md). Licentie: CC-BY-SA 4.0.
 > [View raw markdown](https://raw.githubusercontent.com/USER/thoughtful-social-ai/main/nl/BottomUpPrinciples.md) voor copy-paste naar je AI.
+
+> **Wat dit document noemt.** Tijdens het lezen kom je één centrale referentie tegen die in de praktijk van de auteur centraal staat. De principes zijn algemeen toepasbaar, deze concrete referentie dient als context, niet als vereiste.
+>
+> - **Floor de Ruiter**: auteur van het bottom-up werk dat deze samenvatting beschrijft ([bottom-upchange.nl](https://bottom-upchange.nl))
 
 ---
 
