@@ -22,7 +22,7 @@ Raw links (open in nieuw tab, kopieer alles, plak in AI):
 - [OwnershipPrinciples.md](https://raw.githubusercontent.com/joostliebregts/thoughtful-social-ai/main/nl/OwnershipPrinciples.md) voor de eigenaarschaps-grammatica
 - [BottomUpPrinciples.md](https://raw.githubusercontent.com/joostliebregts/thoughtful-social-ai/main/nl/BottomUpPrinciples.md) voor bottom-up systeemverandering
 
-**Optie B: hele bundle in één.** Een gegenereerde `nl/bundle.md` (alle vier docs samen) volgt; tot die er staat, plak ze achter elkaar.
+**Optie B: hele bundle in één.** [`nl/bundle.md`](https://raw.githubusercontent.com/joostliebregts/thoughtful-social-ai/main/nl/bundle.md) bevat alle vier docs samen — open, kopieer alles, plak in AI.
 
 Wat een AI hiermee doet: in plaats van per opdracht uitleggen "schrijf alsjeblieft in deelnemer-register, vermijd consultantese, label inferentie als inferentie", krijgt de AI dit als gedragslijn vooraf. De rest van je gesprek gaat over de inhoud.
 
