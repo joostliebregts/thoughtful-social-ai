@@ -16,11 +16,11 @@ De docs zijn ontworpen om door een taalmodel begrepen te worden. Twee manieren o
 
 **Optie A: per pagina.** Open de raw markdown-versie van het document dat je nodig hebt, kopieer alles, plak het bovenaan je AI-gesprek met de instructie: "Houd deze principes aan in alles wat je voor mij doet."
 
-Raw links (klik "Raw" op GitHub of gebruik):
-- `nl/SOCIAL-AI-PRINCIPES.md` voor de 15 principes
-- `nl/PROMPT-BEST-PRACTICES.md` voor concreet prompt-ontwerp
-- `nl/OwnershipPrinciples.md` voor de eigenaarschaps-grammatica
-- `nl/BottomUpPrinciples.md` voor bottom-up systeemverandering
+Raw links (open in nieuw tab, kopieer alles, plak in AI):
+- [SOCIAL-AI-PRINCIPES.md](https://raw.githubusercontent.com/joostliebregts/thoughtful-social-ai/main/nl/SOCIAL-AI-PRINCIPES.md) voor de 15 principes
+- [PROMPT-BEST-PRACTICES.md](https://raw.githubusercontent.com/joostliebregts/thoughtful-social-ai/main/nl/PROMPT-BEST-PRACTICES.md) voor concreet prompt-ontwerp
+- [OwnershipPrinciples.md](https://raw.githubusercontent.com/joostliebregts/thoughtful-social-ai/main/nl/OwnershipPrinciples.md) voor de eigenaarschaps-grammatica
+- [BottomUpPrinciples.md](https://raw.githubusercontent.com/joostliebregts/thoughtful-social-ai/main/nl/BottomUpPrinciples.md) voor bottom-up systeemverandering
 
 **Optie B: hele bundle in één.** Een gegenereerde `nl/bundle.md` (alle vier docs samen) volgt; tot die er staat, plak ze achter elkaar.
 
