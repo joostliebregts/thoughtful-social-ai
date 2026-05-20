@@ -121,7 +121,7 @@ Elke pagina heeft een eigen "laatste update"-datum bovenaan.
 
 Issues, opmerkingen, verbeteringen: open een GitHub issue of stuur Joost een bericht via jmfl.nl.
 
-Repo: https://github.com/USER/thoughtful-social-ai (GitHub-username wordt ingevuld voor publicatie).
+Repo: https://github.com/joostliebregts/thoughtful-social-ai (GitHub-username wordt ingevuld voor publicatie).
 
 ## Licentie
 

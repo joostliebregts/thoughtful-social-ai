@@ -129,7 +129,7 @@ Elke pagina heeft een eigen "laatste update"-datum bovenaan.
 
 Issues, opmerkingen, verbeteringen: open een GitHub issue of stuur Joost een bericht via jmfl.nl.
 
-Repo: https://github.com/USER/thoughtful-social-ai (GitHub-username wordt ingevuld voor publicatie).
+Repo: https://github.com/joostliebregts/thoughtful-social-ai (GitHub-username wordt ingevuld voor publicatie).
 
 ## Licentie
 
@@ -148,7 +148,7 @@ Door Joost MF Liebregts (jmfl.nl): bottom-up facilitatie en de Social AI Veldgid
 > Eerste versie 2026-05-12. Publiek gepubliceerd 2026-05-20. Laatste update 2026-05-20.
 >
 > Onderdeel van [Thoughtful Social AI](../README.md). Licentie: CC-BY-SA 4.0.
-> [View raw markdown](https://raw.githubusercontent.com/USER/thoughtful-social-ai/main/nl/SOCIAL-AI-PRINCIPES.md) voor copy-paste naar je AI.
+> [View raw markdown](https://raw.githubusercontent.com/joostliebregts/thoughtful-social-ai/main/nl/SOCIAL-AI-PRINCIPES.md) voor copy-paste naar je AI.
 
 > **Wat dit document noemt.** Tijdens het lezen kom je een aantal specifieke mensen en projecten tegen die in de praktijk van de auteur centraal staan. De principes en technieken zijn algemeen toepasbaar, deze concrete referenties dienen als context, niet als vereiste.
 >
@@ -591,7 +591,7 @@ Voor de volledige uitwerking: zie [Prompts](./PROMPT-BEST-PRACTICES.md).
 > Eerste versie najaar 2025. Publiek gepubliceerd 2026-05-20. Laatste update 2026-05-19.
 >
 > Onderdeel van [Thoughtful Social AI](../README.md). Licentie: CC-BY-SA 4.0.
-> [View raw markdown](https://raw.githubusercontent.com/USER/thoughtful-social-ai/main/nl/PROMPT-BEST-PRACTICES.md) voor copy-paste naar je AI.
+> [View raw markdown](https://raw.githubusercontent.com/joostliebregts/thoughtful-social-ai/main/nl/PROMPT-BEST-PRACTICES.md) voor copy-paste naar je AI.
 
 > **Wat dit document noemt.** Tijdens het lezen kom je een aantal specifieke tools, projecten en mensen tegen die in de praktijk van de auteur centraal staan. De principes en technieken zijn algemeen toepasbaar, deze concrete referenties dienen als context, niet als vereiste.
 >
@@ -2323,7 +2323,7 @@ Per facilitator-claim onderbouwbaar met "drie verschillende prompts vonden dit":
 > Eerste versie 2025-08-26. Publiek gepubliceerd 2026-05-20. Laatste update 2026-05-10.
 >
 > Onderdeel van [Thoughtful Social AI](../README.md). Licentie: CC-BY-SA 4.0.
-> [View raw markdown](https://raw.githubusercontent.com/USER/thoughtful-social-ai/main/nl/OwnershipPrinciples.md) voor copy-paste naar je AI.
+> [View raw markdown](https://raw.githubusercontent.com/joostliebregts/thoughtful-social-ai/main/nl/OwnershipPrinciples.md) voor copy-paste naar je AI.
 
 > **Wat dit document noemt.** Tijdens het lezen kom je een aantal specifieke mensen en projecten tegen die in de praktijk van de auteur centraal staan. De principes en technieken zijn algemeen toepasbaar, deze concrete referenties dienen als context, niet als vereiste.
 >
@@ -2591,7 +2591,7 @@ ipv lagere score.
 > Eerste versie najaar 2025 (mogelijk eerder). Publiek gepubliceerd 2026-05-20.
 >
 > Onderdeel van [Thoughtful Social AI](../README.md). Licentie: CC-BY-SA 4.0.
-> [View raw markdown](https://raw.githubusercontent.com/USER/thoughtful-social-ai/main/nl/BottomUpPrinciples.md) voor copy-paste naar je AI.
+> [View raw markdown](https://raw.githubusercontent.com/joostliebregts/thoughtful-social-ai/main/nl/BottomUpPrinciples.md) voor copy-paste naar je AI.
 
 > **Wat dit document noemt.** Tijdens het lezen kom je één centrale referentie tegen die in de praktijk van de auteur centraal staat. De principes zijn algemeen toepasbaar, deze concrete referentie dient als context, niet als vereiste.
 >

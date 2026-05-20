@@ -4,7 +4,7 @@
 > Eerste versie najaar 2025. Publiek gepubliceerd 2026-05-20. Laatste update 2026-05-19.
 >
 > Onderdeel van [Thoughtful Social AI](../README.md). Licentie: CC-BY-SA 4.0.
-> [View raw markdown](https://raw.githubusercontent.com/USER/thoughtful-social-ai/main/nl/PROMPT-BEST-PRACTICES.md) voor copy-paste naar je AI.
+> [View raw markdown](https://raw.githubusercontent.com/joostliebregts/thoughtful-social-ai/main/nl/PROMPT-BEST-PRACTICES.md) voor copy-paste naar je AI.
 
 > **Wat dit document noemt.** Tijdens het lezen kom je een aantal specifieke tools, projecten en mensen tegen die in de praktijk van de auteur centraal staan. De principes en technieken zijn algemeen toepasbaar, deze concrete referenties dienen als context, niet als vereiste.
 >
