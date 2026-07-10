@@ -8,7 +8,7 @@ Vier documenten over hoe je AI bedachtzaam inzet in werk met groepen: facilitati
 
 De bundle is dubbel bedoeld. Je kunt hem lezen als je dit werk doet (of erover nadenkt), en je kunt hem als geheel of per pagina in je eigen AI (Claude, ChatGPT) plakken zodat die AI bedachtzaam meewerkt aan jouw projecten. De principes vervangen losse prompt-instructies en worden gedragslijn.
 
-Gebaseerd op praktijk: jaren facilitatie, recent het Doesburg-traject (een bottom-up gemeenschapstraject rondom een zorgzame gemeenschap) en de Social AI Veldgids (jmfl.nl/social-ai). Continu in ontwikkeling, niet af.
+Gebaseerd op praktijk: jaren facilitatie, recent het Doesburg-traject (een bottom-up gemeenschapstraject rondom een zorgzame gemeenschap) en de Social AI Veldgids (socialaiveldgids.nl). Continu in ontwikkeling, niet af.
 
 ## Geef het aan je AI
 

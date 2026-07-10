@@ -16,7 +16,7 @@ Vier documenten over hoe je AI bedachtzaam inzet in werk met groepen: facilitati
 
 De bundle is dubbel bedoeld. Je kunt hem lezen als je dit werk doet (of erover nadenkt), en je kunt hem als geheel of per pagina in je eigen AI (Claude, ChatGPT) plakken zodat die AI bedachtzaam meewerkt aan jouw projecten. De principes vervangen losse prompt-instructies en worden gedragslijn.
 
-Gebaseerd op praktijk: jaren facilitatie, recent het Doesburg-traject (een bottom-up gemeenschapstraject rondom een zorgzame gemeenschap) en de Social AI Veldgids (jmfl.nl/social-ai). Continu in ontwikkeling, niet af.
+Gebaseerd op praktijk: jaren facilitatie, recent het Doesburg-traject (een bottom-up gemeenschapstraject rondom een zorgzame gemeenschap) en de Social AI Veldgids (socialaiveldgids.nl). Continu in ontwikkeling, niet af.
 
 ## Geef het aan je AI
 
@@ -142,7 +142,7 @@ Door Joost MF Liebregts (jmfl.nl): bottom-up facilitatie en de Social AI Veldgid
 >
 > - **Floor de Ruiter**: facilitator en denker over bottom-up verandering ([bottom-upchange.nl](https://bottom-upchange.nl))
 > - **het Doesburg-traject**: een bottom-up gemeenschapstraject rondom een zorgzame gemeenschap waar veel van deze principes in de praktijk zijn ontwikkeld
-> - **de Veldgids**: Social AI Veldgids op [jmfl.nl/social-ai](https://jmfl.nl/social-ai)
+> - **de Veldgids**: Social AI Veldgids op [socialaiveldgids.nl](https://socialaiveldgids.nl)
 
 > *"Al die vragen beginnen bij de mens. Niet bij de tool, niet bij het systeem, niet bij de prompt."*
 
@@ -586,7 +586,7 @@ Voor de volledige uitwerking: zie [Prompts](./PROMPT-BEST-PRACTICES.md).
 > - **Dembrane**: een transcript- en dialoog-platform voor groepswerk waar veel van deze prompts in zijn ontwikkeld
 > - **Maarten Essenburg**: facilitator-collega (een van de praktijkvoorbeelden in deze doc)
 > - **het Doesburg-traject**: een bottom-up gemeenschapstraject rondom een zorgzame gemeenschap (referentiebron voor frustratie-als-brandstof en eigenaarschap-voorbeelden)
-> - **de Veldgids**: Social AI Veldgids op [jmfl.nl/social-ai](https://jmfl.nl/social-ai) (de praktijk-context waar deze prompts in landen)
+> - **de Veldgids**: Social AI Veldgids op [socialaiveldgids.nl](https://socialaiveldgids.nl) (de praktijk-context waar deze prompts in landen)
 
 > **Wat mensen zeggen is al genoeg. Een goede prompt helpt AI om dat zichtbaar te maken, zonder er iets aan toe te voegen.**
 

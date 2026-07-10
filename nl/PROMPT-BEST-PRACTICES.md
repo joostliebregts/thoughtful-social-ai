@@ -11,7 +11,7 @@
 > - **Dembrane**: een transcript- en dialoog-platform voor groepswerk waar veel van deze prompts in zijn ontwikkeld
 > - **Maarten Essenburg**: facilitator-collega (een van de praktijkvoorbeelden in deze doc)
 > - **het Doesburg-traject**: een bottom-up gemeenschapstraject rondom een zorgzame gemeenschap (referentiebron voor frustratie-als-brandstof en eigenaarschap-voorbeelden)
-> - **de Veldgids**: Social AI Veldgids op [jmfl.nl/social-ai](https://jmfl.nl/social-ai) (de praktijk-context waar deze prompts in landen)
+> - **de Veldgids**: Social AI Veldgids op [socialaiveldgids.nl](https://socialaiveldgids.nl) (de praktijk-context waar deze prompts in landen)
 
 > **Wat mensen zeggen is al genoeg. Een goede prompt helpt AI om dat zichtbaar te maken, zonder er iets aan toe te voegen.**
 

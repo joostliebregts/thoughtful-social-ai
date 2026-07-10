@@ -10,7 +10,7 @@
 >
 > - **Floor de Ruiter**: facilitator en denker over bottom-up verandering ([bottom-upchange.nl](https://bottom-upchange.nl))
 > - **het Doesburg-traject**: een bottom-up gemeenschapstraject rondom een zorgzame gemeenschap waar veel van deze principes in de praktijk zijn ontwikkeld
-> - **de Veldgids**: Social AI Veldgids op [jmfl.nl/social-ai](https://jmfl.nl/social-ai)
+> - **de Veldgids**: Social AI Veldgids op [socialaiveldgids.nl](https://socialaiveldgids.nl)
 
 > *"Al die vragen beginnen bij de mens. Niet bij de tool, niet bij het systeem, niet bij de prompt."*
 
