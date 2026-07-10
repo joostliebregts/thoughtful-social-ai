@@ -133,7 +133,7 @@ Door Joost MF Liebregts (jmfl.nl): bottom-up facilitatie en de Social AI Veldgid
 # Social AI Principes
 
 > **Levend document**, continu in ontwikkeling.
-> Eerste versie 2026-05-12. Publiek gepubliceerd 2026-05-20. Laatste update 2026-05-20.
+> Eerste versie 2026-05-12. Publiek gepubliceerd 2026-05-20. Laatste update 2026-05-22.
 >
 > Onderdeel van [Thoughtful Social AI](../README.md). Licentie: CC-BY-SA 4.0.
 > [View raw markdown](https://raw.githubusercontent.com/joostliebregts/thoughtful-social-ai/main/nl/SOCIAL-AI-PRINCIPES.md) voor copy-paste naar je AI.
@@ -164,17 +164,27 @@ Al die vragen beginnen bij de mens. Niet bij de tool, niet bij het systeem, niet
 
 ---
 
+## Discipline-in-ontwikkeling
+
+We staan aan het begin van deze AI-ontdekkingsreis. Wat hier staat is richting voor wat we nu zien werken, niet uitputtend, niet absoluut. Regels zijn werkhypothesen die zich verfijnen naarmate we meer leren. Markering van AI-inferentie ("dit is een aanname die AI zelf doet", "mogelijk onderbelicht", "patroon dat in transcript niet expliciet is benoemd") is waardevol waar het kan, als concrete discipline om eigenaarschap te beschermen. Soms haalbaar, soms niet. Hou ruimte voor nieuwe vormen van toevoegen en nieuwe manieren om eigenaarschap te bewaken.
+
+Cross-link met principe 7 (kaart is niet het gebied): deze principes zijn zelf een lens, geen waarheid. Verfijning gebeurt door praktijk en reflectie, niet door dogma.
+
+---
+
 ## Fundamenteel
 
 De as waarop alles draait. Zonder deze 4 vallen de rest om.
 
-### 1. Wijsheid zit al in het systeem
+### 1. Wijsheid zit in het systeem. AI helpt het zichtbaar te maken.
 
-> AI maakt zichtbaar wat er al is. AI voegt niets toe.
+> AI maakt zichtbaar wat er al is. Wat AI toevoegt, doet het met zorg en gemarkeerd.
 
-Deelnemers, hun relaties, hun onzichtbare netwerken bevatten al de kennis. AI-taak is niet expert-inzichten inbrengen, maar bestaande wijsheid zichtbaar maken, inclusief de onzichtbare netwerken (moskee, buurthulp, barbecues, winkelgesprekken) die uit beleidsdocumenten verdwijnen. Wiki-content structureert rond wat participanten al weten, niet rond externe expert-taxonomie. Analyses gaan terug naar transcripten, niet naar secundaire literatuur. Niet-gezegde dingen worden gemarkeerd als hypothese (de "Verbreden"-rol), niet als feit.
+**Laag 1, Wijsheid komt uit het systeem.** Deelnemers, hun relaties, hun onzichtbare netwerken (moskee, buurthulp, barbecues, winkelgesprekken) bevatten al de kennis. AI verzint geen kennis die er niet was. Geen externe expert-indeling van buiten als startpunt. Wat experts erover schreven is geen hoofdbron; de transcripten en gesprekken zelf wel. AI-output structureert rond wat deelnemers al weten en zeiden. Analyses gaan terug naar bronmateriaal, niet naar wat anderen elders over het onderwerp schreven. Niet-gezegde dingen worden gemarkeerd als hypothese (de "Verbreden"-rol), niet als feit.
 
-**Waar het op spanning staat:** Bij publicatie naar externe (beleids)context is er druk om expert-taal erin te krijgen. Weerstaan. Als externe taal nodig is: voeg toe, vervang niet.
+**Laag 2, AI's toevoegingen worden bewust gekozen en gemarkeerd.** Wat AI ziet of maakt is geen vervanging van wat deelnemers zeiden. Structuur, verbanden, hypothesen, schaal, leesbaarheid: dat is wat AI legitiem toevoegt. Elke toevoeging expliciet gelabeld, geen vermenging met wat gezegd is. Niveau van toevoeging hangt af van prompt-doel: spiegel mag bijna niets, synthese mag patronen verbinden, serendipity mag vragen opperen. Markering "dit is een AI-inferentie" of "mogelijk onderbelicht" beschermt eigenaarschap.
+
+**Waar het op spanning staat:** Bij publicatie naar externe (beleids)context is er druk om expert-taal erin te krijgen. Weerstaan. Als externe taal nodig is: voeg toe, vervang niet. Andere kant: schaalbaarheid en verbreding zijn echte AI-toevoegingen die een mens niet kan, niet te conservatief reformuleren tot "AI doet niets". De kunst zit in welke toevoeging waar past, niet in toevoeging weren.
 
 ---
 
@@ -182,7 +192,7 @@ Deelnemers, hun relaties, hun onzichtbare netwerken bevatten al de kennis. AI-ta
 
 > Participatie groeit uit bestaande relaties. Vertrouwen is het distributiekanaal én de rand waarbinnen AI mag werken.
 
-**Laag 1, Distributie.** Mensen nemen niet deel omdat een proces goed ontworpen is. Ze nemen deel omdat iemand die zij vertrouwen ze uitnodigt. Koud uitgezonden uitnodigingen werken niet in bottom-up werk, ook niet als de inhoud goed is. Dit is geen observatie over gedrag, het is een ontwerpuitgangspunt. Een wiki die methodisch werk documenteert voor een veld waar vertrouwen de dragende laag is, moet die realiteit erkennen, anders documenteert hij iets onmogelijks. Vertrouwensdragers (informele leiders, vertrouwde buren, bestaande facilitators) worden zichtbaar gemaakt. Voor AI-output geldt hetzelfde: ontwerp niet alleen de prompt, ontwerp ook hoe de output bij de groep aankomt: wie deelt het, met welke woorden eromheen, op welk moment in het proces.
+**Laag 1, Distributie.** Mensen nemen niet deel omdat een proces goed ontworpen is. Ze nemen deel omdat iemand die zij vertrouwen ze uitnodigt. Koud uitgezonden uitnodigingen werken niet in bottom-up werk, ook niet als de inhoud goed is. Dit is geen observatie over gedrag, het is een ontwerpuitgangspunt. AI-output die methodisch werk documenteert voor een veld waar vertrouwen de dragende laag is, moet die realiteit erkennen, anders documenteert hij iets onmogelijks. Vertrouwensdragers (informele leiders, vertrouwde buren, bestaande facilitators) worden zichtbaar gemaakt. Voor AI-output geldt hetzelfde: ontwerp niet alleen de prompt, ontwerp ook hoe de output bij de groep aankomt: wie deelt het, met welke woorden eromheen, op welk moment in het proces.
 
 **Laag 2, Zorgvuldigheid.** AI moet zorgvuldig omgaan met wat is gedeeld. Wat in een sessie gezegd wordt, wordt gedeeld onder een verwachting van veiligheid: *ik ga goed om met wat jij met mij deelt, zodat jij me daarna kunt aankijken*. AI moet die vertrouwensrelatie vertalen naar concrete werkregels:
 
@@ -217,7 +227,7 @@ AI mag ordenen, verbinden, zichtbaar maken, niet namens mensen concluderen. Conc
 
 > Hun woorden zijn hun eigenaarschap. Parafraseren vernietigt wat er is.
 
-Wanneer iemand zegt *"je praat tegen een muur"*, bevat die zin hun ervaring, hun energie, hun perspectief. Als de wiki dat maakt tot *"er is sprake van communicatieproblemen"*, is het eigenaarschap weg. De observatie is nu van de analist, niet meer van de spreker. Dit is geen stijlpreferentie, het is een eigendomskwestie. Letterlijke quotes waar mogelijk, met passage-referentie. Niet-verbale uitingen (gebaren met bolletjes wol, Lego-constructies, lichaamsposities, fysiek voedsel) zijn ook "taal", documenteer ze. Parafraseren mag, maar markeer het.
+Wanneer iemand zegt *"je praat tegen een muur"*, bevat die zin hun ervaring, hun energie, hun perspectief. Als de AI-output dat maakt tot *"er is sprake van communicatieproblemen"*, is het eigenaarschap weg. De observatie is nu van de analist, niet meer van de spreker. Dit is geen stijlpreferentie, het is een eigendomskwestie. Letterlijke quotes waar mogelijk, met passage-referentie. Niet-verbale uitingen (gebaren met bolletjes wol, Lego-constructies, lichaamsposities, fysiek voedsel) zijn ook "taal", documenteer ze. Parafraseren mag, maar markeer het.
 
 *"Eigenaarschap komt van binnenuit. We kennen het niet toe, we herkennen het."* (zie [Eigenaarschap](./OwnershipPrinciples.md))
 
@@ -226,6 +236,8 @@ Wanneer iemand zegt *"je praat tegen een muur"*, bevat die zin hun ervaring, hun
 Een antwoord in een zorginstellings-sessie: *"Dat kan het prima, maar jullie zijn de ziel van dit alles. Het feit dat jullie erover praten, zorgt ervoor dat jullie het waarschijnlijk zullen steunen."*
 
 Het uitspreken IS de interventie. Articulatie creëert eigenaarschap, niet rapportage erover. Dialoog bouwt gedeeld begrip. Co-creatie genereert authentiek eigenaarschap. Commitment volgt uit actieve participatie. AI mag structureren en opties bieden, nooit beslissen.
+
+**Sub-nuance, Verbatim is verbatim-in-meaning, niet stenografie.** Dysfluencies (eh, ehm, uh; onbedoelde haper-herhalingen zoals *"we we moeten"*; false starts die de spreker zelf direct corrigeerde) horen niet bij wat iemand zei. Schrap ze. Woordkeuze, zinsstructuur, intentionele herhaling voor nadruk (*"echt, echt belangrijk"*) en karakteristieke spreektaal of dialect (*"die snap je wel hè"*) raak je niet aan. Test: zou de spreker zichzelf herkennen? Géén markering in output (geen [eh] of [...]); dat trekt aandacht naar de ruis in plaats van naar wat gezegd werd. Bij twijfel: liever met dysfluency dan geparafraseerd. Verbatim-default (zie kernbegrenzing 3 in [Prompt Best Practices](./PROMPT-BEST-PRACTICES.md)) is geen excuus om transcript-ruis door te laten; hun bedoeling preserveren is regel onder verbatim-regel.
 
 **Waar het op spanning staat:** Vloeiend proza leest prettiger dan een citatenlappendeken. Schoonheid kan eigenaarschap slopen. Kies eigenaarschap. Variatie: als een participant zelf parafraseert wordt (*"ik zei ongeveer..."*), gebruik diens parafrase, niet die van de analist.
 
@@ -268,7 +280,7 @@ Frustratie mag er zijn zoals ze is uitgesproken. *"Formuleer uitdagingen constru
 
 > Elk principe, elk model is een lens. Geen lens is de werkelijkheid.
 
-Epistemologische bescheidenheid, geen relativisme. Elke theorie, elk frame in deze wiki (inclusief deze principes) is een poging om werkelijkheid beter te begrijpen. Ze zijn nuttig voorzover ze dichter bij realiteit brengen. Ze zijn geen waarheid. Over tien jaar kan een nieuwe lens accurater blijken. Modellen worden verfijnd, samengevoegd, verworpen: dat is geen falen, dat is hoe kennis werkt. Claims worden gemarkeerd op bewijs-niveau (direct / inferentie / verbreding). Taal als *"misschien"*, *"mogelijk"*, *"volgens mij"* is geen twijfel maar bewustzijn.
+Epistemologische bescheidenheid, geen relativisme. Elke theorie, elk frame in deze bundle (inclusief deze principes) is een poging om werkelijkheid beter te begrijpen. Ze zijn nuttig voorzover ze dichter bij realiteit brengen. Ze zijn geen waarheid. Over tien jaar kan een nieuwe lens accurater blijken. Modellen worden verfijnd, samengevoegd, verworpen: dat is geen falen, dat is hoe kennis werkt. Claims worden gemarkeerd op bewijs-niveau (direct / inferentie / verbreding). Taal als *"misschien"*, *"mogelijk"*, *"volgens mij"* is geen twijfel maar bewustzijn.
 
 **Cross-link met principe 5:** Bedachtzaamheid is patroon-discipline (multi-pass, OBSERVE voor ACT). Kaart-niet-gebied is lens-bewustzijn (claims hebben bewijs-niveau). Overlap op epistemische bescheidenheid, verschillende praktische uitwerking. Beide nodig.
 
@@ -286,7 +298,7 @@ Functioneel alleen als Fundamenteel + Grondhouding staan. Hoe je het werk doet.
 
 > Eerst menselijke vraag, dan structuur.
 
-Elke wiki-sectie, analyse-prompt, facilitator-voorbereiding begint bij: wat is de menselijke vraag hier? Wat willen mensen echt weten, voelen, doen? Structuur vooraan geplaatst (template, ritueel, formaat) wordt snel doel in zichzelf. De vraag *"hoe zorgen we dat deze bijeenkomst voelt als een plek om eerlijk te spreken?"* is méér waard dan *"welke sjabloon gebruiken we voor de agenda?"*. Ritueel komt nadat intentie helder is, niet andersom. AI kan rituelen efficiënter maken; mens moet intentie bewaken.
+Elke analyse-prompt, facilitator-voorbereiding, AI-output-sectie begint bij: wat is de menselijke vraag hier? Wat willen mensen echt weten, voelen, doen? Structuur vooraan geplaatst (template, ritueel, formaat) wordt snel doel in zichzelf. De vraag *"hoe zorgen we dat deze bijeenkomst voelt als een plek om eerlijk te spreken?"* is méér waard dan *"welke sjabloon gebruiken we voor de agenda?"*. Ritueel komt nadat intentie helder is, niet andersom. AI kan rituelen efficiënter maken; mens moet intentie bewaken.
 
 **Sub-nuance, Prompt de mensen eerst:** Voordat je een AI-prompt schrijft, ontwerp de menselijke ervaring die goede input genereert.
 
@@ -312,7 +324,7 @@ Ultieme test is niet geldigheid, niet correctheid, niet elegantie. Het is: herke
 
 > Geen groepspace. Faciliteer individueel. Meebewegen verlaagt drempel.
 
-Bijeenkomst, interview, wiki-reviewronde heeft geen *"groepspace"*. Elke deelnemer heeft eigen tempo: hoe snel ze denken, hoe snel ze zich veilig voelen, hoe snel ze klaar zijn om te delen. Faciliteren op groepspace sluit mensen uit. Meebewegen met individueel tempo (toon, pauze-lengte, diepgang) verlaagt drempel tot deelname, zonder zichtbaar als *"speciale behandeling"*. Per-persoon kennis: wie praat snel, wie heeft bedenktijd nodig. Bijeenkomst-analyses onderscheiden *"gezegd door veel mensen"* vs *"gezegd door weinig mensen"*.
+Bijeenkomst, interview, review-ronde heeft geen *"groepspace"*. Elke deelnemer heeft eigen tempo: hoe snel ze denken, hoe snel ze zich veilig voelen, hoe snel ze klaar zijn om te delen. Faciliteren op groepspace sluit mensen uit. Meebewegen met individueel tempo (toon, pauze-lengte, diepgang) verlaagt drempel tot deelname, zonder zichtbaar als *"speciale behandeling"*. Per-persoon kennis: wie praat snel, wie heeft bedenktijd nodig. Bijeenkomst-analyses onderscheiden *"gezegd door veel mensen"* vs *"gezegd door weinig mensen"*.
 
 **Waar het op spanning staat:** Groepsdynamiek wil naar gemiddelde. Echt faciliteren kost extra tijd en aandacht per persoon: die tijd en aandacht is de kern van wat bottom-up werk onderscheidt van top-down werk. Als er geen ruimte is voor dit maatwerk, wordt het top-down met een bottom-up label.
 
@@ -362,7 +374,7 @@ Wie de pen mag vasthouden bij wat er over je gezegd wordt.
 
 > Schrijfrecht naast leesrecht. Wie sprak, mag corrigeren.
 
-Een wiki met transcripten, interviews, verhalen heeft een asymmetrie: er ontstaat een gestructureerde representatie *over* mensen, vaak zonder dat zij zelf de pen vasthouden. Dat is een vorm van macht. Twee assen erkennen: **leesrecht** (wie mag deze pagina zien? Ring 1 / 2 / 3) + **schrijfrecht/correctierecht** (wie mag deze pagina veranderen, terugnemen, toevoegen wat is gemist?). Echo-loops zijn de operationele uitwerking. Een wiki-pagina is nooit *"af"*: het is een werkdocument dat met de mensen erin meebeweegt.
+AI-output met transcripten, interviews, verhalen heeft een asymmetrie: er ontstaat een gestructureerde representatie *over* mensen, vaak zonder dat zij zelf de pen vasthouden. Dat is een vorm van macht. Twee assen erkennen: **leesrecht** (wie mag deze pagina zien? Ring 1 / 2 / 3) + **schrijfrecht/correctierecht** (wie mag deze pagina veranderen, terugnemen, toevoegen wat is gemist?). Echo-loops zijn de operationele uitwerking. Een AI-output-pagina is nooit *"af"*: het is een werkdocument dat met de mensen erin meebeweegt.
 
 Drie ringen, drie correctie-modi:
 - **Ring 1 (facilitators):** interne correctie op interpretatie en synthese
@@ -411,12 +423,12 @@ De keuze tussen Spiegel/Synthese/Serendipity is functioneel principe-niveau.
 
 Spiegel = veiligst voor eigenaarschap. Hoe hoger het niveau, hoe explicieter labelen wat van AI komt.
 
-**Relatie tot de 3 AI-rollen (Spiegelen/Verdiepen/Verbreden):** twee verschillende frameworks die hetzelfde gebied raken. AI-waardeniveaus (Spiegel/Synthese/Serendipity) gaan over **wat AI doet met input**: output-keuze van de prompt. AI-rollen (Spiegelen/Verdiepen/Verbreden) gaan over **wat een wiki-pagina representeert**: pagina-modus. Overlap: beide eindigen op een Spiegel-modus die letterlijk-citeert. Verschil: rollen leven op pagina-niveau (welke modus is dit), waardeniveaus op prompt-niveau (welk output-type vraagt deze prompt).
+**Relatie tot de 3 AI-rollen (Spiegelen/Verdiepen/Verbreden):** twee verschillende frameworks die hetzelfde gebied raken. AI-waardeniveaus (Spiegel/Synthese/Serendipity) gaan over **wat AI doet met input**: output-keuze van de prompt. AI-rollen (Spiegelen/Verdiepen/Verbreden) gaan over **wat een pagina in de AI-output representeert**: pagina-modus. Overlap: beide eindigen op een Spiegel-modus die letterlijk-citeert. Verschil: rollen leven op pagina-niveau (welke modus is dit), waardeniveaus op prompt-niveau (welk output-type vraagt deze prompt).
 
 | Framework | Niveau | Wat het doet |
 |---|---|---|
 | **AI-waardeniveau** (prompt) | Spiegel / Synthese / Serendipity | Wat de prompt output produceert |
-| **AI-rol** (wiki-pagina) | Spiegelen / Verdiepen / Verbreden | Welke modus deze pagina belichaamt |
+| **AI-rol** (pagina in AI-output) | Spiegelen / Verdiepen / Verbreden | Welke modus deze pagina belichaamt |
 
 Bij prompt-ontwerp: kies AI-waardeniveau bewust. Bij pagina-ontwerp: kies AI-rol bewust. Vermijd de twee per ongeluk te mengen.
 
@@ -481,7 +493,7 @@ Elke claim traceert terug naar transcripten, interviews, originele documenten. G
 
 Geen eenmalige synthese. Iteratie met participanten. Voor naam-toekenningen, claim-verificatie, citaat-plaatsing: tweede pass kritisch met expliciete vraag (*"is er expliciete markering in de bron?"*).
 
-**Uitbreiding, multi-prompt validation voor wiki-fundament.** Wanneer wiki-entries als fundament dienen voor verdere conclusies (coaching, sessie-design, deliverables): meerdere prompt-variants van zelfde lens parallel op zelfde bron, overlap = robuustheid-signaal. Variant-typologie: baseline + signal-terms-shift + signal-focus-positive. Comparison-rule: verbatim/moment-overlap, NIET label-overlap. Voor findings met meerdere readings: classificeer als **complementary** (beide kloppen samen), **competing** (sluiten elkaar uit), of **multiple** (nog niet bepaalbaar), bewaar beide lezingen, geen synthese-druk. Voor het volledige recept: zie [Prompts](./PROMPT-BEST-PRACTICES.md).
+**Uitbreiding, multi-prompt validation voor fundament-werk.** Wanneer AI-output als fundament dient voor verdere conclusies (coaching, sessie-design, deliverables): meerdere prompt-variants van zelfde lens parallel op zelfde bron, overlap = robuustheid-signaal. Variant-typologie: baseline + signal-terms-shift + signal-focus-positive. Comparison-rule: verbatim/moment-overlap, NIET label-overlap. Voor findings met meerdere readings: classificeer als **complementary** (beide kloppen samen), **competing** (sluiten elkaar uit), of **multiple** (nog niet bepaalbaar), bewaar beide lezingen, geen synthese-druk. Voor het volledige recept: zie [Prompts](./PROMPT-BEST-PRACTICES.md).
 
 ### Positive-first als anti-default-pull (geobserveerd over 3 lenses)
 
@@ -489,7 +501,7 @@ Geen eenmalige synthese. Iteratie met participanten. Voor naam-toekenningen, cla
 
 We hebben dit niet absoluut bewezen, wel consistent over drie lenses en twee soorten bronnen geobserveerd. Voorzichtig mee omgaan: behandel als sterke werkhypothese, niet als wet.
 
-**De bredere claim, veranderkundige inbreng.** *"Het is veel handiger om mensen te veranderen door te vragen of ze meer kunnen doen van wat ze al doen, te bevestigen wat er goed gaat, dan in die frictie te gaan zitten van: hé, dit moet je beter doen."* Versterken wat al werkt is een sterker veranderings-mechanisme dan corrigeren wat niet werkt. Bij patroon-onderzoek dat in menselijke praktijk landt: belicht beide kanten als default, en voor hoogwaardig wiki-fundament-werk komt daar een extra positive-only-pass overheen. Anders raakt het positieve verwaterd onder het negatieve.
+**De bredere claim, veranderkundige inbreng.** *"Het is veel handiger om mensen te veranderen door te vragen of ze meer kunnen doen van wat ze al doen, te bevestigen wat er goed gaat, dan in die frictie te gaan zitten van: hé, dit moet je beter doen."* Versterken wat al werkt is een sterker veranderings-mechanisme dan corrigeren wat niet werkt. Bij patroon-onderzoek dat in menselijke praktijk landt: belicht beide kanten als default, en voor hoogwaardig fundament-werk komt daar een extra positive-only-pass overheen. Anders raakt het positieve verwaterd onder het negatieve.
 
 **Geobserveerd over 3 lenses (2026-05-20):**
 - L1 (taal-mechanismen) + L2 (groeps-dynamiek) op breakouts. Blinde vlek consistent.
@@ -614,7 +626,7 @@ Scope: deelnemer-output, publieke posts, klant-rapporten, AI-output via platform
 
 ## De kern in drie zinnen
 
-1. AI voegt niets toe. AI maakt zichtbaar wat er al is.
+1. AI maakt zichtbaar wat er al is. Wat AI toevoegt, doet het met zorg en gemarkeerd.
 2. Een prompt is geen instructie aan een machine. Het is een ontwerp voor hoe AI menselijke wijsheid mag spiegelen.
 3. Als mensen zichzelf niet herkennen in de output, is de prompt mislukt.
 

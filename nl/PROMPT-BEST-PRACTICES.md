@@ -39,7 +39,7 @@ Scope: deelnemer-output, publieke posts, klant-rapporten, AI-output via platform
 
 ## De kern in drie zinnen
 
-1. AI voegt niets toe. AI maakt zichtbaar wat er al is.
+1. AI maakt zichtbaar wat er al is. Wat AI toevoegt, doet het met zorg en gemarkeerd.
 2. Een prompt is geen instructie aan een machine. Het is een ontwerp voor hoe AI menselijke wijsheid mag spiegelen.
 3. Als mensen zichzelf niet herkennen in de output, is de prompt mislukt.
 
